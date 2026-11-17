@@ -1,0 +1,1201 @@
+category,season,material,price_inr,discount_pct,rating,social_mentions,units_sold,return_rate_pct,price_capped
+Ethnic Wear,Spring/Summer,Linen,2864.0,12.0,3.6,345.0,17.0,9.6,2864.0
+Y2K Revival,Festive,Polyester,1416.0,20.0,4.1,421.0,50.0,15.8,1416.0
+Sustainable Wear,Festive,Cotton,1408.0,30.0,4.2,630.0,68.0,5.6,1408.0
+Y2K Revival,Spring/Summer,Polyester,1550.0,9.0,4.2,91.0,15.0,18.5,1550.0
+Athleisure,Spring/Summer,Denim,2787.0,5.0,4.0,1129.0,22.0,5.8,2787.0
+Ethnic Wear,Spring/Summer,Polyester,2188.0,30.0,3.8,305.0,66.0,12.0,2188.0
+Ethnic Wear,Autumn/Winter,Polyester,3600.0,16.0,3.7,618.0,26.0,15.5,3600.0
+Athleisure,Festive,Recycled Fibre,1306.0,18.0,3.9,663.0,60.0,17.4,1306.0
+Athleisure,Autumn/Winter,Cotton,1423.0,3.0,4.6,1208.0,39.0,11.3,1423.0
+Streetwear,Spring/Summer,Polyester,3690.0,15.0,3.6,371.0,23.0,23.3,3690.0
+Y2K Revival,Spring/Summer,Polyester,1241.0,22.0,4.0,74.0,32.0,18.7,1241.0
+Ethnic Wear,Spring/Summer,Cotton,3762.0,31.0,4.1,422.0,50.0,18.5,3762.0
+Y2K Revival,Festive,Recycled Fibre,779.0,14.0,4.8,474.0,58.0,6.6,779.0
+Formal Wear,Autumn/Winter,Denim,7292.0,39.0,3.8,176.0,14.0,24.9,5955.125
+Streetwear,Autumn/Winter,Denim,2717.0,15.0,4.5,454.0,28.0,9.5,2717.0
+Formal Wear,Spring/Summer,Denim,3565.0,15.0,4.6,302.0,39.0,21.9,3565.0
+Athleisure,Festive,Polyester,2202.0,37.0,4.0,138.0,45.0,26.0,2202.0
+Athleisure,Spring/Summer,Cotton,1099.0,24.0,3.9,690.0,39.0,18.0,1099.0
+Formal Wear,Festive,Silk,5748.0,16.0,3.8,257.0,25.0,20.5,5748.0
+Formal Wear,Festive,Denim,3393.0,20.0,3.9,291.0,40.0,0.0,3393.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,2421.0,36.0,4.6,279.0,45.0,13.3,2421.0
+Ethnic Wear,Festive,Polyester,2694.0,37.0,4.1,1084.0,59.0,21.1,2694.0
+Ethnic Wear,Spring/Summer,Silk,2611.0,14.0,4.1,390.0,13.0,19.1,2611.0
+Formal Wear,Autumn/Winter,Recycled Fibre,4846.0,22.0,3.4,430.0,10.0,10.5,4846.0
+Ethnic Wear,Spring/Summer,Denim,3500.0,23.0,3.5,284.0,28.0,14.9,3500.0
+Streetwear,Autumn/Winter,Recycled Fibre,2764.0,12.0,5.0,584.0,35.0,0.0,2764.0
+Streetwear,Spring/Summer,Polyester,2193.0,21.0,3.9,1187.0,32.0,17.4,2193.0
+Streetwear,Spring/Summer,Cotton,2633.0,22.0,3.6,677.0,26.0,6.7,2633.0
+Ethnic Wear,Spring/Summer,Polyester,2764.0,33.0,4.7,699.0,40.0,19.6,2764.0
+Formal Wear,Spring/Summer,Polyester,8293.0,34.0,4.1,655.0,32.0,21.4,5955.125
+Streetwear,Autumn/Winter,Denim,1271.0,19.0,4.3,134.0,12.0,11.8,1271.0
+Sustainable Wear,Autumn/Winter,Polyester,4042.0,20.0,4.1,200.0,13.0,17.4,4042.0
+Sustainable Wear,Spring/Summer,Polyester,4197.0,29.0,4.0,342.0,11.0,14.4,4197.0
+Formal Wear,Festive,Polyester,2820.0,16.0,3.9,226.0,30.0,16.3,2820.0
+Formal Wear,Festive,Silk,8292.0,28.0,3.3,172.0,1.0,11.4,5955.125
+Athleisure,Spring/Summer,Linen,2550.0,21.0,4.0,90.0,30.0,18.2,2550.0
+Athleisure,Autumn/Winter,Cotton,2529.0,12.0,4.1,137.0,43.0,6.1,2529.0
+Ethnic Wear,Autumn/Winter,Denim,3232.0,12.0,4.9,329.0,49.0,3.2,3232.0
+Athleisure,Autumn/Winter,Polyester,1668.0,36.0,4.0,382.0,29.0,15.2,1668.0
+Formal Wear,Spring/Summer,Polyester,3531.0,20.0,2.8,214.0,20.0,16.9,3531.0
+Sustainable Wear,Autumn/Winter,Cotton,2981.0,38.0,4.2,430.0,37.0,16.8,2981.0
+Athleisure,Spring/Summer,Linen,2939.0,17.0,5.0,285.0,21.0,9.1,2939.0
+Y2K Revival,Spring/Summer,Recycled Fibre,1598.0,25.0,4.4,965.0,50.0,23.7,1598.0
+Athleisure,Autumn/Winter,Denim,1308.0,46.0,3.6,354.0,72.0,18.1,1308.0
+Sustainable Wear,Autumn/Winter,Cotton,3470.0,11.0,4.5,704.0,36.0,14.5,3470.0
+Athleisure,Festive,Denim,2485.0,3.0,3.6,475.0,7.0,16.1,2485.0
+Athleisure,Spring/Summer,Recycled Fibre,2264.0,35.0,3.3,131.0,47.0,22.5,2264.0
+Athleisure,Spring/Summer,Cotton,2337.0,14.0,3.8,375.0,1.0,18.1,2337.0
+Athleisure,Spring/Summer,Cotton,1637.0,22.0,4.0,150.0,26.0,17.3,1637.0
+Athleisure,Spring/Summer,Cotton,1300.0,16.0,3.1,370.0,17.0,20.7,1300.0
+Athleisure,Spring/Summer,Denim,1328.0,25.0,3.4,222.0,36.0,7.6,1328.0
+Ethnic Wear,Autumn/Winter,Cotton,1805.0,12.0,4.0,548.0,28.0,5.7,1805.0
+Ethnic Wear,Autumn/Winter,Polyester,3477.0,20.0,3.8,138.0,22.0,15.1,3477.0
+Streetwear,Autumn/Winter,Recycled Fibre,2137.0,26.0,4.2,408.0,39.0,13.8,2137.0
+Sustainable Wear,Spring/Summer,Denim,2229.0,12.0,3.6,638.0,27.0,18.5,2229.0
+Streetwear,Spring/Summer,Silk,782.0,15.0,4.4,834.0,50.0,13.9,782.0
+Y2K Revival,Autumn/Winter,Recycled Fibre,969.0,19.0,3.4,219.0,33.0,19.4,969.0
+Formal Wear,Spring/Summer,Cotton,5625.0,8.0,4.8,409.0,13.0,6.2,5625.0
+Athleisure,Festive,Denim,1426.0,18.0,3.1,467.0,34.0,17.1,1426.0
+Athleisure,Spring/Summer,Cotton,2042.0,23.0,3.5,1391.0,55.0,9.7,2042.0
+Sustainable Wear,Autumn/Winter,Cotton,1598.0,18.0,4.4,123.0,28.0,15.8,1598.0
+Sustainable Wear,Festive,Denim,4302.0,19.0,5.0,195.0,30.0,3.1,4302.0
+Ethnic Wear,Autumn/Winter,Cotton,3043.0,22.0,4.2,3803.0,89.0,16.3,3043.0
+Streetwear,Autumn/Winter,Cotton,2435.0,15.0,4.3,324.0,17.0,6.7,2435.0
+Athleisure,Autumn/Winter,Silk,4063.0,29.0,4.0,89.0,53.0,13.5,4063.0
+Streetwear,Spring/Summer,Cotton,3740.0,36.0,3.5,253.0,20.0,21.5,3740.0
+Ethnic Wear,Autumn/Winter,Cotton,2874.0,17.0,3.8,50.0,19.0,16.5,2874.0
+Athleisure,Festive,Linen,1463.0,27.0,3.4,489.0,28.0,8.6,1463.0
+Formal Wear,Festive,Recycled Fibre,3391.0,20.0,3.4,771.0,55.0,13.1,3391.0
+Athleisure,Autumn/Winter,Recycled Fibre,2152.0,26.0,4.2,195.0,33.0,7.3,2152.0
+Y2K Revival,Spring/Summer,Cotton,1446.0,38.0,3.4,277.0,41.0,8.9,1446.0
+Athleisure,Autumn/Winter,Linen,1567.0,27.0,4.2,845.0,45.0,15.4,1567.0
+Formal Wear,Autumn/Winter,Recycled Fibre,6350.0,4.0,3.3,99.0,1.0,18.8,5955.125
+Y2K Revival,Spring/Summer,Cotton,1441.0,27.0,4.1,140.0,37.0,17.3,1441.0
+Y2K Revival,Spring/Summer,Cotton,3355.0,34.0,3.8,336.0,38.0,19.2,3355.0
+Formal Wear,Spring/Summer,Cotton,3923.0,20.0,4.7,221.0,1.0,13.2,3923.0
+Formal Wear,Autumn/Winter,Linen,7098.0,32.0,4.2,319.0,27.0,13.7,5955.125
+Ethnic Wear,Spring/Summer,Cotton,3626.0,15.0,4.6,147.0,26.0,7.9,3626.0
+Formal Wear,Spring/Summer,Recycled Fibre,5323.0,7.0,3.6,479.0,20.0,13.1,5323.0
+Athleisure,Spring/Summer,Denim,1397.0,23.0,4.0,358.0,55.0,8.5,1397.0
+Ethnic Wear,Festive,Cotton,2373.0,4.0,3.5,626.0,15.0,11.2,2373.0
+Streetwear,Spring/Summer,Silk,2584.0,20.0,3.8,474.0,42.0,15.9,2584.0
+Formal Wear,Spring/Summer,Cotton,5371.0,35.0,3.9,476.0,22.0,15.4,5371.0
+Streetwear,Autumn/Winter,Cotton,2231.0,3.0,3.6,127.0,21.0,30.5,2231.0
+Streetwear,Spring/Summer,Recycled Fibre,1402.0,9.0,3.4,598.0,18.0,9.2,1402.0
+Ethnic Wear,Festive,Polyester,1988.0,12.0,3.3,310.0,7.0,15.7,1988.0
+Sustainable Wear,Festive,Denim,1578.0,21.0,3.0,353.0,27.0,10.4,1578.0
+Athleisure,Autumn/Winter,Linen,970.0,18.0,3.5,933.0,56.0,14.2,970.0
+Streetwear,Autumn/Winter,Cotton,2286.0,36.0,4.3,227.0,51.0,13.3,2286.0
+Streetwear,Spring/Summer,Polyester,3262.0,32.0,3.2,1189.0,62.0,21.8,3262.0
+Sustainable Wear,Spring/Summer,Cotton,2588.0,27.0,3.5,1281.0,36.0,14.4,2588.0
+Streetwear,Spring/Summer,Denim,997.0,23.0,3.9,737.0,65.0,11.9,997.0
+Streetwear,Spring/Summer,Silk,2058.0,26.0,3.7,184.0,27.0,13.9,2058.0
+Sustainable Wear,Spring/Summer,Polyester,2456.0,13.0,4.4,70.0,29.0,6.6,2456.0
+Streetwear,Autumn/Winter,Linen,4582.0,31.0,3.9,956.0,46.0,11.5,4582.0
+Ethnic Wear,Spring/Summer,Silk,1922.0,11.0,4.3,441.0,38.0,11.9,1922.0
+Sustainable Wear,Spring/Summer,Recycled Fibre,2268.0,30.0,3.4,222.0,39.0,17.4,2268.0
+Y2K Revival,Autumn/Winter,Cotton,2725.0,34.0,3.9,1032.0,42.0,18.7,2725.0
+Y2K Revival,Autumn/Winter,Cotton,1756.0,24.0,3.2,203.0,41.0,16.0,1756.0
+Streetwear,Spring/Summer,Cotton,2679.0,20.0,5.0,287.0,60.0,11.2,2679.0
+Sustainable Wear,Spring/Summer,Polyester,2706.0,26.0,3.4,614.0,28.0,8.2,2706.0
+Ethnic Wear,Spring/Summer,Polyester,3592.0,0.0,3.5,166.0,1.0,17.9,3592.0
+Formal Wear,Spring/Summer,Cotton,4989.0,25.0,3.5,370.0,29.0,13.0,4989.0
+Ethnic Wear,Festive,Polyester,2410.0,21.0,3.3,964.0,31.0,20.5,2410.0
+Formal Wear,Festive,Polyester,5167.0,21.0,4.7,478.0,28.0,19.9,5167.0
+Ethnic Wear,Autumn/Winter,Cotton,1979.0,29.0,5.0,1094.0,66.0,12.0,1979.0
+Ethnic Wear,Autumn/Winter,Denim,3590.0,21.0,3.8,999.0,29.0,10.4,3590.0
+Sustainable Wear,Autumn/Winter,Linen,2768.0,11.0,3.5,406.0,16.0,15.7,2768.0
+Formal Wear,Autumn/Winter,Polyester,3063.0,21.0,4.0,62.0,17.0,19.5,3063.0
+Sustainable Wear,Spring/Summer,Polyester,2579.0,23.0,4.1,167.0,51.0,13.3,2579.0
+Ethnic Wear,Spring/Summer,Polyester,2573.0,23.0,3.8,743.0,38.0,12.8,2573.0
+Formal Wear,Autumn/Winter,Denim,2611.0,24.0,3.7,117.0,15.0,18.8,2611.0
+Athleisure,Autumn/Winter,Linen,1590.0,32.0,4.1,311.0,33.0,17.8,1590.0
+Ethnic Wear,Spring/Summer,Polyester,2174.0,11.0,4.2,529.0,31.0,12.3,2174.0
+Athleisure,Spring/Summer,Denim,2015.0,24.0,4.2,1307.0,37.0,6.4,2015.0
+Formal Wear,Spring/Summer,Denim,2541.0,35.0,3.8,255.0,24.0,18.5,2541.0
+Athleisure,Spring/Summer,Recycled Fibre,2309.0,5.0,3.4,241.0,21.0,11.9,2309.0
+Y2K Revival,Autumn/Winter,Cotton,992.0,24.0,4.3,387.0,53.0,15.5,992.0
+Athleisure,Autumn/Winter,Cotton,1476.0,16.0,4.0,534.0,30.0,15.6,1476.0
+Y2K Revival,Autumn/Winter,Silk,1205.0,18.0,4.4,357.0,42.0,4.5,1205.0
+Formal Wear,Spring/Summer,Polyester,6042.0,13.0,4.4,934.0,24.0,14.1,5955.125
+Ethnic Wear,Spring/Summer,Silk,3592.0,20.0,3.3,213.0,28.0,19.3,3592.0
+Formal Wear,Festive,Recycled Fibre,3529.0,40.0,3.3,444.0,49.0,20.9,3529.0
+Formal Wear,Autumn/Winter,Cotton,4525.0,9.0,3.6,576.0,1.0,16.0,4525.0
+Y2K Revival,Spring/Summer,Cotton,717.0,10.0,3.5,293.0,23.0,5.9,717.0
+Sustainable Wear,Spring/Summer,Polyester,2561.0,9.0,4.6,790.0,38.0,19.3,2561.0
+Ethnic Wear,Festive,Cotton,6438.0,39.0,4.2,454.0,31.0,17.5,5955.125
+Athleisure,Autumn/Winter,Silk,1885.0,17.0,4.5,758.0,41.0,7.6,1885.0
+Ethnic Wear,Festive,Recycled Fibre,3277.0,22.0,4.2,471.0,43.0,10.7,3277.0
+Athleisure,Autumn/Winter,Polyester,2181.0,18.0,4.1,545.0,36.0,15.8,2181.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,4378.0,13.0,4.6,243.0,40.0,16.5,4378.0
+Ethnic Wear,Autumn/Winter,Polyester,1590.0,20.0,4.2,244.0,50.0,12.1,1590.0
+Streetwear,Spring/Summer,Recycled Fibre,1221.0,47.0,4.0,1074.0,69.0,20.5,1221.0
+Ethnic Wear,Autumn/Winter,Cotton,3444.0,36.0,4.7,671.0,50.0,5.1,3444.0
+Formal Wear,Autumn/Winter,Recycled Fibre,2959.0,13.0,4.1,178.0,1.0,9.2,2959.0
+Formal Wear,Spring/Summer,Recycled Fibre,6015.0,28.0,3.8,466.0,21.0,5.6,5955.125
+Streetwear,Festive,Cotton,1970.0,14.0,3.6,60.0,6.0,11.2,1970.0
+Ethnic Wear,Spring/Summer,Linen,1626.0,4.0,4.0,255.0,26.0,20.7,1626.0
+Y2K Revival,Spring/Summer,Denim,962.0,32.0,4.6,870.0,62.0,24.4,962.0
+Athleisure,Spring/Summer,Cotton,688.0,34.0,4.0,365.0,61.0,16.9,688.0
+Athleisure,Festive,Recycled Fibre,1658.0,32.0,4.7,443.0,70.0,10.7,1658.0
+Athleisure,Festive,Denim,1685.0,17.0,3.0,50.0,21.0,16.2,1685.0
+Ethnic Wear,Autumn/Winter,Denim,2758.0,20.0,4.0,295.0,58.0,17.4,2758.0
+Streetwear,Festive,Polyester,3209.0,29.0,4.0,529.0,42.0,7.6,3209.0
+Formal Wear,Festive,Linen,5780.0,26.0,3.6,585.0,8.0,13.4,5780.0
+Ethnic Wear,Festive,Denim,3015.0,18.0,5.0,871.0,36.0,19.6,3015.0
+Sustainable Wear,Festive,Linen,1232.0,6.0,4.2,341.0,22.0,8.6,1232.0
+Y2K Revival,Spring/Summer,Cotton,1862.0,23.0,3.8,353.0,43.0,11.9,1862.0
+Formal Wear,Autumn/Winter,Cotton,4615.0,33.0,4.0,139.0,22.0,15.7,4615.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,2897.0,10.0,3.2,343.0,12.0,17.9,2897.0
+Streetwear,Autumn/Winter,Polyester,3102.0,28.0,3.9,147.0,29.0,13.3,3102.0
+Sustainable Wear,Spring/Summer,Cotton,1729.0,25.0,4.7,92.0,37.0,13.9,1729.0
+Athleisure,Autumn/Winter,Polyester,3636.0,30.0,3.7,169.0,42.0,19.3,3636.0
+Athleisure,Festive,Recycled Fibre,1287.0,31.0,3.6,1349.0,63.0,26.4,1287.0
+Y2K Revival,Spring/Summer,Polyester,1950.0,15.0,4.7,325.0,49.0,12.4,1950.0
+Streetwear,Festive,Denim,1219.0,6.0,4.7,481.0,28.0,12.3,1219.0
+Streetwear,Spring/Summer,Recycled Fibre,1589.0,17.0,4.3,268.0,49.0,21.7,1589.0
+Formal Wear,Spring/Summer,Denim,6461.0,31.0,3.8,96.0,5.0,13.3,5955.125
+Ethnic Wear,Spring/Summer,Denim,2921.0,17.0,3.9,853.0,16.0,8.5,2921.0
+Y2K Revival,Autumn/Winter,Cotton,2013.0,15.0,3.6,71.0,9.0,17.0,2013.0
+Formal Wear,Autumn/Winter,Silk,4129.0,4.0,3.5,259.0,6.0,20.8,4129.0
+Streetwear,Spring/Summer,Cotton,2121.0,40.0,3.5,386.0,63.0,19.1,2121.0
+Streetwear,Autumn/Winter,Denim,3546.0,30.0,3.7,485.0,29.0,15.8,3546.0
+Y2K Revival,Spring/Summer,Cotton,1381.0,30.0,3.5,226.0,34.0,9.5,1381.0
+Formal Wear,Autumn/Winter,Silk,2038.0,32.0,3.2,93.0,33.0,17.3,2038.0
+Y2K Revival,Festive,Denim,1132.0,28.0,4.1,213.0,51.0,21.3,1132.0
+Athleisure,Autumn/Winter,Cotton,2183.0,20.0,4.1,222.0,27.0,8.6,2183.0
+Formal Wear,Autumn/Winter,Denim,4364.0,20.0,4.9,217.0,24.0,11.5,4364.0
+Ethnic Wear,Autumn/Winter,Cotton,1849.0,18.0,3.7,877.0,21.0,13.7,1849.0
+Athleisure,Festive,Polyester,1397.0,48.0,4.1,153.0,53.0,12.7,1397.0
+Ethnic Wear,Spring/Summer,Polyester,2611.0,28.0,4.2,513.0,57.0,16.1,2611.0
+Ethnic Wear,Spring/Summer,Polyester,2816.0,17.0,3.9,458.0,30.0,17.3,2816.0
+Athleisure,Spring/Summer,Linen,1112.0,27.0,4.4,870.0,45.0,16.5,1112.0
+Streetwear,Autumn/Winter,Denim,1766.0,12.0,4.4,363.0,46.0,8.7,1766.0
+Formal Wear,Autumn/Winter,Polyester,2945.0,37.0,4.2,760.0,45.0,7.1,2945.0
+Sustainable Wear,Autumn/Winter,Linen,3406.0,15.0,4.1,352.0,42.0,15.8,3406.0
+Streetwear,Spring/Summer,Denim,2920.0,27.0,3.8,571.0,55.0,13.3,2920.0
+Streetwear,Spring/Summer,Recycled Fibre,2091.0,33.0,3.3,121.0,38.0,26.6,2091.0
+Sustainable Wear,Autumn/Winter,Cotton,2267.0,26.0,3.8,50.0,15.0,25.2,2267.0
+Y2K Revival,Festive,Denim,1575.0,23.0,3.7,546.0,66.0,25.9,1575.0
+Formal Wear,Spring/Summer,Cotton,2855.0,22.0,3.4,570.0,35.0,11.9,2855.0
+Athleisure,Spring/Summer,Linen,1205.0,21.0,4.2,590.0,39.0,17.4,1205.0
+Y2K Revival,Spring/Summer,Linen,1079.0,16.0,4.6,265.0,50.0,17.7,1079.0
+Y2K Revival,Autumn/Winter,Recycled Fibre,1201.0,18.0,3.5,1328.0,52.0,19.9,1201.0
+Sustainable Wear,Spring/Summer,Cotton,1730.0,37.0,4.2,279.0,68.0,13.3,1730.0
+Formal Wear,Spring/Summer,Cotton,4022.0,21.0,3.5,565.0,18.0,22.7,4022.0
+Athleisure,Autumn/Winter,Recycled Fibre,2324.0,14.0,3.8,649.0,33.0,15.2,2324.0
+Y2K Revival,Spring/Summer,Cotton,861.0,17.0,3.7,1596.0,34.0,16.2,861.0
+Ethnic Wear,Spring/Summer,Polyester,3228.0,33.0,4.3,313.0,51.0,7.2,3228.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,2963.0,29.0,4.0,239.0,34.0,19.4,2963.0
+Athleisure,Festive,Silk,2029.0,28.0,4.5,122.0,46.0,12.8,2029.0
+Y2K Revival,Autumn/Winter,Cotton,1493.0,19.0,3.9,1397.0,45.0,17.5,1493.0
+Athleisure,Spring/Summer,Polyester,1082.0,28.0,3.7,565.0,42.0,17.3,1082.0
+Sustainable Wear,Spring/Summer,Denim,1671.0,16.0,3.6,580.0,21.0,16.7,1671.0
+Athleisure,Autumn/Winter,Polyester,1819.0,19.0,4.1,4882.0,99.0,14.5,1819.0
+Formal Wear,Festive,Cotton,5447.0,32.0,4.4,523.0,54.0,18.5,5447.0
+Athleisure,Spring/Summer,Cotton,829.0,31.0,4.1,142.0,40.0,14.3,829.0
+Y2K Revival,Spring/Summer,Polyester,1693.0,12.0,5.0,345.0,43.0,4.8,1693.0
+Ethnic Wear,Spring/Summer,Denim,4853.0,13.0,4.7,185.0,25.0,15.7,4853.0
+Athleisure,Autumn/Winter,Polyester,1706.0,23.0,3.8,294.0,36.0,11.6,1706.0
+Athleisure,Festive,Cotton,2182.0,39.0,3.8,292.0,30.0,9.8,2182.0
+Athleisure,Autumn/Winter,Polyester,1407.0,3.0,4.2,252.0,6.0,8.5,1407.0
+Ethnic Wear,Spring/Summer,Cotton,3069.0,25.0,3.6,132.0,19.0,17.7,3069.0
+Formal Wear,Autumn/Winter,Cotton,2155.0,8.0,4.6,1442.0,15.0,12.4,2155.0
+Sustainable Wear,Autumn/Winter,Denim,1145.0,16.0,4.4,512.0,56.0,3.1,1145.0
+Formal Wear,Spring/Summer,Recycled Fibre,5286.0,18.0,4.1,337.0,24.0,12.7,5286.0
+Athleisure,Spring/Summer,Cotton,1275.0,18.0,4.0,740.0,42.0,20.0,1275.0
+Formal Wear,Spring/Summer,Polyester,3240.0,17.0,4.9,588.0,10.0,10.3,3240.0
+Y2K Revival,Autumn/Winter,Cotton,923.0,22.0,4.1,503.0,21.0,14.0,923.0
+Formal Wear,Autumn/Winter,Cotton,2320.0,17.0,3.9,698.0,34.0,20.3,2320.0
+Ethnic Wear,Autumn/Winter,Linen,3011.0,7.0,4.8,449.0,50.0,16.3,3011.0
+Formal Wear,Festive,Polyester,2944.0,30.0,4.5,690.0,39.0,19.4,2944.0
+Athleisure,Spring/Summer,Recycled Fibre,2055.0,30.0,3.8,737.0,56.0,2.1,2055.0
+Sustainable Wear,Spring/Summer,Denim,3046.0,30.0,4.2,460.0,36.0,23.7,3046.0
+Athleisure,Spring/Summer,Cotton,2014.0,7.0,4.1,338.0,24.0,17.3,2014.0
+Streetwear,Festive,Denim,2392.0,25.0,4.2,1372.0,66.0,27.1,2392.0
+Formal Wear,Autumn/Winter,Polyester,6601.0,29.0,3.3,275.0,13.0,13.3,5955.125
+Ethnic Wear,Spring/Summer,Cotton,2202.0,12.0,3.2,552.0,14.0,7.8,2202.0
+Formal Wear,Spring/Summer,Denim,3728.0,22.0,3.6,562.0,45.0,16.1,3728.0
+Athleisure,Autumn/Winter,Cotton,2676.0,21.0,3.5,248.0,28.0,14.9,2676.0
+Formal Wear,Autumn/Winter,Linen,5916.0,40.0,3.7,211.0,46.0,20.0,5916.0
+Athleisure,Autumn/Winter,Recycled Fibre,1094.0,41.0,4.3,304.0,50.0,20.7,1094.0
+Sustainable Wear,Spring/Summer,Cotton,2331.0,5.0,4.1,272.0,36.0,13.6,2331.0
+Formal Wear,Festive,Denim,6113.0,47.0,4.1,126.0,43.0,14.9,5955.125
+Y2K Revival,Autumn/Winter,Cotton,1792.0,13.0,3.4,240.0,28.0,18.8,1792.0
+Ethnic Wear,Autumn/Winter,Denim,3426.0,32.0,3.8,499.0,41.0,14.8,3426.0
+Athleisure,Autumn/Winter,Cotton,1668.0,32.0,4.3,1111.0,52.0,13.2,1668.0
+Ethnic Wear,Festive,Cotton,2798.0,12.0,4.3,629.0,30.0,19.0,2798.0
+Athleisure,Festive,Polyester,1991.0,27.0,3.6,50.0,28.0,22.6,1991.0
+Y2K Revival,Autumn/Winter,Denim,1373.0,21.0,4.1,674.0,54.0,20.2,1373.0
+Formal Wear,Autumn/Winter,Cotton,3744.0,28.0,5.0,258.0,39.0,12.1,3744.0
+Athleisure,Spring/Summer,Denim,1850.0,24.0,4.0,580.0,23.0,4.5,1850.0
+Athleisure,Festive,Cotton,1420.0,34.0,3.7,399.0,27.0,15.7,1420.0
+Athleisure,Autumn/Winter,Polyester,2168.0,23.0,3.9,346.0,15.0,11.6,2168.0
+Y2K Revival,Spring/Summer,Polyester,4160.0,20.0,4.0,372.0,33.0,14.4,4160.0
+Streetwear,Spring/Summer,Cotton,1181.0,33.0,3.9,396.0,35.0,12.5,1181.0
+Formal Wear,Festive,Denim,4256.0,28.0,4.0,1183.0,46.0,15.3,4256.0
+Ethnic Wear,Festive,Cotton,2452.0,29.0,3.3,397.0,37.0,12.0,2452.0
+Ethnic Wear,Festive,Silk,3917.0,15.0,3.5,961.0,25.0,9.6,3917.0
+Athleisure,Autumn/Winter,Linen,1830.0,12.0,3.9,856.0,38.0,21.0,1830.0
+Y2K Revival,Autumn/Winter,Polyester,1958.0,16.0,3.9,688.0,36.0,10.2,1958.0
+Sustainable Wear,Festive,Linen,3923.0,16.0,3.9,97.0,1.0,15.1,3923.0
+Ethnic Wear,Spring/Summer,Denim,3423.0,30.0,3.9,986.0,40.0,20.5,3423.0
+Ethnic Wear,Spring/Summer,Silk,4756.0,32.0,4.0,280.0,38.0,20.2,4756.0
+Ethnic Wear,Festive,Linen,1409.0,20.0,4.4,715.0,64.0,18.0,1409.0
+Y2K Revival,Spring/Summer,Silk,2617.0,36.0,4.0,185.0,64.0,17.3,2617.0
+Athleisure,Autumn/Winter,Linen,2052.0,36.0,4.2,156.0,31.0,18.9,2052.0
+Streetwear,Autumn/Winter,Polyester,3208.0,24.0,3.7,1961.0,46.0,22.8,3208.0
+Streetwear,Autumn/Winter,Silk,1435.0,14.0,4.3,188.0,13.0,16.1,1435.0
+Streetwear,Spring/Summer,Polyester,1645.0,38.0,4.2,1009.0,80.0,6.2,1645.0
+Athleisure,Autumn/Winter,Recycled Fibre,1894.0,21.0,4.4,444.0,52.0,11.4,1894.0
+Athleisure,Spring/Summer,Denim,1789.0,23.0,4.4,288.0,44.0,17.6,1789.0
+Sustainable Wear,Festive,Denim,2871.0,19.0,4.5,389.0,36.0,10.6,2871.0
+Sustainable Wear,Spring/Summer,Denim,3800.0,13.0,4.2,142.0,36.0,22.3,3800.0
+Streetwear,Autumn/Winter,Linen,1186.0,7.0,4.1,399.0,42.0,13.8,1186.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,4500.0,28.0,4.5,170.0,47.0,14.6,4500.0
+Ethnic Wear,Spring/Summer,Cotton,3209.0,14.0,3.7,294.0,26.0,21.1,3209.0
+Streetwear,Spring/Summer,Polyester,2049.0,53.0,3.7,846.0,63.0,16.5,2049.0
+Streetwear,Autumn/Winter,Cotton,1315.0,11.0,4.1,494.0,41.0,15.2,1315.0
+Sustainable Wear,Spring/Summer,Cotton,3101.0,9.0,4.4,123.0,30.0,17.9,3101.0
+Ethnic Wear,Spring/Summer,Denim,1375.0,27.0,3.6,797.0,43.0,9.0,1375.0
+Sustainable Wear,Autumn/Winter,Denim,3262.0,37.0,4.2,401.0,42.0,13.9,3262.0
+Athleisure,Festive,Polyester,1068.0,23.0,4.0,261.0,53.0,19.3,1068.0
+Streetwear,Autumn/Winter,Cotton,2242.0,28.0,2.9,733.0,56.0,18.5,2242.0
+Streetwear,Spring/Summer,Silk,2110.0,4.0,3.9,353.0,10.0,21.8,2110.0
+Sustainable Wear,Festive,Polyester,3915.0,15.0,4.1,159.0,17.0,6.6,3915.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,3006.0,11.0,3.9,1769.0,43.0,6.3,3006.0
+Ethnic Wear,Autumn/Winter,Denim,2510.0,3.0,4.7,398.0,29.0,16.2,2510.0
+Formal Wear,Autumn/Winter,Polyester,3183.0,23.0,3.4,378.0,21.0,21.0,3183.0
+Ethnic Wear,Spring/Summer,Cotton,4996.0,0.0,3.6,292.0,23.0,14.0,4996.0
+Ethnic Wear,Spring/Summer,Cotton,3861.0,9.0,2.7,1037.0,20.0,19.7,3861.0
+Sustainable Wear,Autumn/Winter,Cotton,2272.0,17.0,4.0,265.0,36.0,18.6,2272.0
+Formal Wear,Spring/Summer,Polyester,3498.0,14.0,3.8,117.0,40.0,11.1,3498.0
+Ethnic Wear,Autumn/Winter,Cotton,1849.0,26.0,3.7,234.0,31.0,12.5,1849.0
+Streetwear,Spring/Summer,Cotton,2520.0,25.0,4.6,1166.0,50.0,14.7,2520.0
+Ethnic Wear,Spring/Summer,Cotton,1728.0,31.0,4.4,785.0,39.0,19.1,1728.0
+Streetwear,Spring/Summer,Cotton,2862.0,30.0,4.0,329.0,37.0,9.7,2862.0
+Streetwear,Autumn/Winter,Cotton,2301.0,33.0,3.8,1210.0,36.0,15.2,2301.0
+Formal Wear,Autumn/Winter,Cotton,8762.0,22.0,4.5,734.0,27.0,12.6,5955.125
+Y2K Revival,Spring/Summer,Denim,1021.0,25.0,4.0,326.0,47.0,17.3,1021.0
+Y2K Revival,Spring/Summer,Cotton,1447.0,27.0,3.6,353.0,36.0,16.3,1447.0
+Streetwear,Spring/Summer,Cotton,4128.0,23.0,3.1,525.0,22.0,14.7,4128.0
+Ethnic Wear,Festive,Cotton,4856.0,18.0,3.8,207.0,27.0,21.6,4856.0
+Formal Wear,Spring/Summer,Recycled Fibre,2978.0,19.0,4.4,405.0,20.0,11.3,2978.0
+Sustainable Wear,Autumn/Winter,Cotton,2812.0,14.0,5.0,516.0,38.0,10.7,2812.0
+Formal Wear,Spring/Summer,Polyester,3803.0,26.0,4.0,105.0,38.0,7.3,3803.0
+Streetwear,Spring/Summer,Cotton,2428.0,21.0,3.6,347.0,9.0,12.5,2428.0
+Athleisure,Autumn/Winter,Denim,1410.0,15.0,3.4,317.0,35.0,18.8,1410.0
+Athleisure,Autumn/Winter,Cotton,1745.0,15.0,4.3,918.0,20.0,15.6,1745.0
+Formal Wear,Spring/Summer,Polyester,2172.0,10.0,3.1,92.0,13.0,19.7,2172.0
+Athleisure,Festive,Denim,1887.0,32.0,4.3,297.0,33.0,17.6,1887.0
+Sustainable Wear,Spring/Summer,Cotton,3044.0,23.0,4.6,274.0,54.0,24.1,3044.0
+Sustainable Wear,Spring/Summer,Cotton,2401.0,13.0,4.4,870.0,22.0,9.9,2401.0
+Athleisure,Spring/Summer,Recycled Fibre,1023.0,30.0,3.9,390.0,27.0,7.7,1023.0
+Sustainable Wear,Autumn/Winter,Cotton,3675.0,16.0,4.2,1697.0,46.0,8.3,3675.0
+Formal Wear,Autumn/Winter,Cotton,4317.0,8.0,4.1,685.0,14.0,10.6,4317.0
+Athleisure,Spring/Summer,Polyester,1396.0,32.0,3.6,291.0,25.0,11.7,1396.0
+Formal Wear,Festive,Cotton,3445.0,17.0,4.9,489.0,41.0,13.1,3445.0
+Formal Wear,Autumn/Winter,Denim,2247.0,18.0,3.8,304.0,5.0,21.7,2247.0
+Streetwear,Festive,Silk,1537.0,22.0,4.4,802.0,34.0,21.8,1537.0
+Athleisure,Festive,Linen,1491.0,33.0,2.8,139.0,29.0,21.2,1491.0
+Ethnic Wear,Festive,Cotton,4919.0,22.0,4.6,209.0,37.0,24.3,4919.0
+Athleisure,Autumn/Winter,Silk,1439.0,10.0,4.7,581.0,51.0,11.0,1439.0
+Streetwear,Spring/Summer,Silk,2753.0,27.0,4.0,1076.0,59.0,7.2,2753.0
+Y2K Revival,Autumn/Winter,Cotton,1242.0,17.0,4.3,69.0,32.0,19.4,1242.0
+Y2K Revival,Autumn/Winter,Denim,1636.0,41.0,4.3,1211.0,38.0,6.1,1636.0
+Formal Wear,Autumn/Winter,Linen,3617.0,22.0,3.7,361.0,32.0,12.1,3617.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,3529.0,0.0,4.5,89.0,29.0,15.4,3529.0
+Ethnic Wear,Spring/Summer,Cotton,2654.0,26.0,3.6,50.0,45.0,15.8,2654.0
+Formal Wear,Festive,Cotton,2192.0,41.0,3.7,119.0,53.0,15.8,2192.0
+Streetwear,Spring/Summer,Recycled Fibre,1356.0,38.0,4.6,397.0,44.0,8.5,1356.0
+Ethnic Wear,Festive,Recycled Fibre,2656.0,40.0,4.5,383.0,48.0,14.7,2656.0
+Athleisure,Spring/Summer,Polyester,1163.0,12.0,3.6,670.0,54.0,20.6,1163.0
+Sustainable Wear,Spring/Summer,Cotton,3001.0,31.0,3.8,260.0,20.0,16.1,3001.0
+Ethnic Wear,Festive,Recycled Fibre,2719.0,15.0,3.7,166.0,8.0,11.3,2719.0
+Athleisure,Festive,Cotton,4133.0,24.0,4.4,290.0,43.0,8.0,4133.0
+Athleisure,Autumn/Winter,Polyester,3713.0,9.0,3.5,414.0,9.0,11.7,3713.0
+Formal Wear,Festive,Silk,4081.0,16.0,4.2,485.0,11.0,16.3,4081.0
+Y2K Revival,Spring/Summer,Cotton,1011.0,15.0,4.4,215.0,54.0,15.5,1011.0
+Ethnic Wear,Festive,Cotton,2692.0,31.0,4.0,830.0,53.0,11.5,2692.0
+Formal Wear,Spring/Summer,Cotton,3993.0,30.0,4.5,245.0,33.0,3.2,3993.0
+Y2K Revival,Autumn/Winter,Denim,665.0,25.0,3.8,201.0,27.0,17.9,665.0
+Athleisure,Autumn/Winter,Cotton,1956.0,8.0,3.9,261.0,46.0,10.2,1956.0
+Streetwear,Spring/Summer,Silk,4282.0,19.0,3.5,953.0,27.0,19.6,4282.0
+Streetwear,Autumn/Winter,Denim,1877.0,15.0,4.5,363.0,51.0,9.7,1877.0
+Athleisure,Autumn/Winter,Silk,1971.0,31.0,3.6,231.0,50.0,11.6,1971.0
+Formal Wear,Spring/Summer,Linen,5440.0,34.0,4.2,846.0,34.0,16.0,5440.0
+Streetwear,Festive,Linen,2077.0,33.0,4.0,2240.0,62.0,27.4,2077.0
+Streetwear,Autumn/Winter,Polyester,1795.0,14.0,3.5,477.0,44.0,19.7,1795.0
+Athleisure,Spring/Summer,Linen,812.0,0.0,3.7,1083.0,45.0,15.4,812.0
+Athleisure,Autumn/Winter,Denim,2253.0,4.0,4.7,924.0,9.0,14.2,2253.0
+Y2K Revival,Spring/Summer,Recycled Fibre,1442.0,36.0,4.1,249.0,57.0,6.8,1442.0
+Athleisure,Spring/Summer,Polyester,1263.0,18.0,3.5,412.0,31.0,10.5,1263.0
+Sustainable Wear,Autumn/Winter,Polyester,2718.0,14.0,4.4,145.0,14.0,1.1,2718.0
+Sustainable Wear,Spring/Summer,Denim,2120.0,38.0,4.1,342.0,54.0,24.3,2120.0
+Streetwear,Spring/Summer,Cotton,1829.0,35.0,5.0,244.0,39.0,20.9,1829.0
+Ethnic Wear,Autumn/Winter,Denim,3956.0,22.0,4.1,292.0,23.0,16.8,3956.0
+Streetwear,Spring/Summer,Cotton,1377.0,19.0,3.8,221.0,23.0,16.1,1377.0
+Athleisure,Festive,Recycled Fibre,2597.0,21.0,4.7,321.0,32.0,5.5,2597.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,1594.0,24.0,3.3,618.0,36.0,15.9,1594.0
+Formal Wear,Spring/Summer,Polyester,3013.0,38.0,4.0,367.0,34.0,24.9,3013.0
+Ethnic Wear,Autumn/Winter,Cotton,6273.0,26.0,5.0,91.0,46.0,13.5,5955.125
+Ethnic Wear,Spring/Summer,Denim,19614.0,29.0,3.9,222.0,1.0,12.9,5955.125
+Ethnic Wear,Autumn/Winter,Polyester,3311.0,34.0,3.1,120.0,53.0,9.2,3311.0
+Formal Wear,Spring/Summer,Polyester,2734.0,10.0,3.8,490.0,20.0,21.9,2734.0
+Athleisure,Festive,Polyester,1496.0,30.0,4.7,603.0,47.0,13.4,1496.0
+Streetwear,Spring/Summer,Polyester,2257.0,19.0,4.2,495.0,57.0,5.7,2257.0
+Ethnic Wear,Autumn/Winter,Silk,3242.0,0.0,3.6,215.0,1.0,10.4,3242.0
+Sustainable Wear,Spring/Summer,Cotton,12227.0,1.0,3.9,492.0,1.0,7.9,5955.125
+Formal Wear,Spring/Summer,Polyester,3759.0,12.0,3.7,277.0,25.0,14.7,3759.0
+Streetwear,Autumn/Winter,Denim,2041.0,27.0,4.2,162.0,25.0,15.9,2041.0
+Formal Wear,Autumn/Winter,Cotton,2294.0,23.0,4.7,730.0,54.0,10.9,2294.0
+Formal Wear,Festive,Polyester,3172.0,24.0,4.5,776.0,49.0,17.8,3172.0
+Streetwear,Spring/Summer,Silk,3030.0,42.0,4.2,862.0,73.0,16.0,3030.0
+Y2K Revival,Spring/Summer,Denim,929.0,9.0,3.3,248.0,32.0,21.5,929.0
+Ethnic Wear,Spring/Summer,Linen,2995.0,22.0,3.3,1036.0,50.0,15.1,2995.0
+Formal Wear,Spring/Summer,Denim,2852.0,25.0,4.3,272.0,35.0,29.7,2852.0
+Streetwear,Festive,Cotton,2287.0,15.0,3.3,680.0,17.0,13.7,2287.0
+Streetwear,Festive,Polyester,1920.0,22.0,3.9,268.0,60.0,10.8,1920.0
+Ethnic Wear,Festive,Denim,5367.0,6.0,4.2,337.0,1.0,8.7,5367.0
+Athleisure,Spring/Summer,Denim,2149.0,36.0,3.4,58.0,23.0,16.2,2149.0
+Streetwear,Autumn/Winter,Linen,1390.0,15.0,3.5,317.0,35.0,7.4,1390.0
+Y2K Revival,Autumn/Winter,Polyester,1897.0,42.0,4.0,434.0,75.0,17.6,1897.0
+Ethnic Wear,Spring/Summer,Polyester,2440.0,22.0,4.3,291.0,38.0,4.8,2440.0
+Athleisure,Autumn/Winter,Cotton,1471.0,32.0,4.5,1644.0,79.0,15.2,1471.0
+Sustainable Wear,Spring/Summer,Denim,2902.0,21.0,4.5,159.0,9.0,7.0,2902.0
+Athleisure,Spring/Summer,Recycled Fibre,1515.0,22.0,4.0,257.0,31.0,13.2,1515.0
+Athleisure,Festive,Polyester,2460.0,16.0,3.6,196.0,1.0,18.8,2460.0
+Y2K Revival,Spring/Summer,Cotton,1144.0,23.0,4.0,257.0,45.0,27.9,1144.0
+Streetwear,Festive,Polyester,1771.0,25.0,3.7,921.0,26.0,10.6,1771.0
+Sustainable Wear,Spring/Summer,Cotton,2066.0,14.0,4.2,1316.0,28.0,12.9,2066.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,2625.0,21.0,4.2,230.0,39.0,10.9,2625.0
+Athleisure,Spring/Summer,Linen,2645.0,16.0,3.0,226.0,31.0,13.0,2645.0
+Sustainable Wear,Spring/Summer,Cotton,3240.0,45.0,3.8,160.0,46.0,13.2,3240.0
+Formal Wear,Autumn/Winter,Silk,6914.0,21.0,4.6,1147.0,37.0,17.7,5955.125
+Ethnic Wear,Spring/Summer,Denim,7077.0,37.0,4.0,989.0,43.0,13.4,5955.125
+Y2K Revival,Autumn/Winter,Cotton,1046.0,20.0,3.3,371.0,30.0,28.0,1046.0
+Ethnic Wear,Festive,Polyester,3280.0,25.0,5.0,132.0,26.0,14.8,3280.0
+Streetwear,Spring/Summer,Polyester,1458.0,9.0,4.0,142.0,31.0,9.4,1458.0
+Formal Wear,Spring/Summer,Cotton,2895.0,18.0,4.2,462.0,39.0,12.6,2895.0
+Y2K Revival,Autumn/Winter,Linen,1203.0,24.0,4.2,626.0,57.0,10.7,1203.0
+Formal Wear,Autumn/Winter,Linen,2625.0,38.0,3.8,77.0,47.0,20.4,2625.0
+Y2K Revival,Autumn/Winter,Cotton,1038.0,24.0,3.6,312.0,24.0,8.0,1038.0
+Formal Wear,Spring/Summer,Cotton,3613.0,36.0,5.0,1472.0,72.0,6.6,3613.0
+Formal Wear,Autumn/Winter,Denim,2482.0,28.0,4.5,339.0,43.0,11.2,2482.0
+Athleisure,Autumn/Winter,Polyester,2417.0,38.0,4.4,1328.0,58.0,18.3,2417.0
+Formal Wear,Spring/Summer,Silk,2756.0,21.0,4.3,678.0,35.0,20.5,2756.0
+Streetwear,Spring/Summer,Silk,5881.0,46.0,3.5,169.0,28.0,24.5,5881.0
+Ethnic Wear,Festive,Cotton,2732.0,17.0,4.6,319.0,44.0,16.0,2732.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,3282.0,14.0,3.6,364.0,4.0,15.3,3282.0
+Y2K Revival,Spring/Summer,Denim,953.0,10.0,4.1,188.0,16.0,18.2,953.0
+Y2K Revival,Spring/Summer,Silk,2725.0,45.0,3.2,186.0,41.0,12.5,2725.0
+Sustainable Wear,Autumn/Winter,Polyester,3847.0,30.0,3.2,1347.0,61.0,8.3,3847.0
+Formal Wear,Autumn/Winter,Polyester,4216.0,19.0,4.2,185.0,37.0,16.6,4216.0
+Formal Wear,Spring/Summer,Polyester,2372.0,34.0,3.6,956.0,30.0,11.7,2372.0
+Streetwear,Autumn/Winter,Polyester,2368.0,29.0,3.0,285.0,48.0,17.6,2368.0
+Athleisure,Autumn/Winter,Cotton,1216.0,42.0,4.3,395.0,76.0,15.9,1216.0
+Athleisure,Spring/Summer,Polyester,3003.0,7.0,5.0,632.0,16.0,13.1,3003.0
+Formal Wear,Festive,Polyester,5044.0,19.0,4.7,250.0,1.0,17.9,5044.0
+Streetwear,Spring/Summer,Cotton,2275.0,17.0,3.9,635.0,32.0,19.3,2275.0
+Y2K Revival,Spring/Summer,Cotton,639.0,2.0,4.0,78.0,34.0,15.1,639.0
+Streetwear,Festive,Recycled Fibre,1559.0,33.0,4.4,574.0,73.0,12.4,1559.0
+Y2K Revival,Festive,Linen,1908.0,19.0,4.6,56.0,24.0,14.0,1908.0
+Streetwear,Spring/Summer,Recycled Fibre,3363.0,29.0,3.8,336.0,56.0,13.0,3363.0
+Formal Wear,Festive,Linen,5602.0,46.0,4.0,799.0,22.0,15.3,5602.0
+Athleisure,Autumn/Winter,Denim,1031.0,18.0,4.2,664.0,37.0,27.5,1031.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,12274.0,18.0,4.3,143.0,1.0,15.1,5955.125
+Formal Wear,Festive,Cotton,5422.0,23.0,3.9,158.0,34.0,17.7,5422.0
+Y2K Revival,Autumn/Winter,Denim,839.0,32.0,3.9,233.0,63.0,12.3,839.0
+Formal Wear,Spring/Summer,Cotton,3790.0,16.0,4.7,468.0,42.0,18.2,3790.0
+Athleisure,Autumn/Winter,Linen,1981.0,16.0,4.6,79.0,16.0,17.1,1981.0
+Streetwear,Spring/Summer,Recycled Fibre,1980.0,33.0,4.2,399.0,59.0,19.0,1980.0
+Athleisure,Spring/Summer,Polyester,941.0,26.0,4.9,518.0,59.0,14.1,941.0
+Athleisure,Festive,Linen,1606.0,2.0,3.8,322.0,1.0,19.8,1606.0
+Ethnic Wear,Autumn/Winter,Polyester,2854.0,10.0,4.8,614.0,7.0,18.9,2854.0
+Formal Wear,Autumn/Winter,Cotton,3608.0,37.0,4.3,482.0,60.0,16.5,3608.0
+Formal Wear,Autumn/Winter,Cotton,3120.0,26.0,4.0,262.0,40.0,12.2,3120.0
+Formal Wear,Autumn/Winter,Cotton,3254.0,14.0,3.4,86.0,1.0,20.7,3254.0
+Formal Wear,Spring/Summer,Cotton,3748.0,20.0,3.7,449.0,23.0,11.2,3748.0
+Formal Wear,Festive,Linen,4436.0,22.0,4.2,188.0,30.0,11.0,4436.0
+Athleisure,Autumn/Winter,Linen,1618.0,29.0,4.2,254.0,43.0,14.7,1618.0
+Sustainable Wear,Autumn/Winter,Polyester,2253.0,8.0,5.0,592.0,15.0,3.2,2253.0
+Ethnic Wear,Autumn/Winter,Cotton,3305.0,14.0,3.7,1254.0,55.0,19.6,3305.0
+Formal Wear,Spring/Summer,Cotton,1940.0,25.0,4.5,391.0,55.0,9.2,1940.0
+Athleisure,Spring/Summer,Cotton,2127.0,21.0,4.6,628.0,39.0,11.2,2127.0
+Streetwear,Spring/Summer,Recycled Fibre,2200.0,28.0,4.4,127.0,38.0,13.3,2200.0
+Ethnic Wear,Spring/Summer,Denim,3245.0,10.0,3.5,491.0,22.0,15.9,3245.0
+Athleisure,Autumn/Winter,Polyester,2519.0,26.0,4.7,385.0,30.0,11.8,2519.0
+Streetwear,Festive,Cotton,1111.0,33.0,4.6,1079.0,67.0,13.8,1111.0
+Y2K Revival,Spring/Summer,Recycled Fibre,752.0,27.0,4.3,262.0,31.0,14.3,752.0
+Ethnic Wear,Spring/Summer,Denim,3522.0,23.0,4.0,333.0,31.0,12.7,3522.0
+Sustainable Wear,Autumn/Winter,Polyester,2594.0,21.0,4.3,941.0,28.0,10.4,2594.0
+Formal Wear,Spring/Summer,Cotton,4033.0,14.0,4.0,375.0,8.0,20.1,4033.0
+Streetwear,Festive,Cotton,1871.0,21.0,4.3,166.0,56.0,3.8,1871.0
+Formal Wear,Spring/Summer,Linen,4795.0,35.0,4.0,3107.0,70.0,14.7,4795.0
+Sustainable Wear,Spring/Summer,Denim,3604.0,21.0,3.8,170.0,27.0,13.2,3604.0
+Ethnic Wear,Spring/Summer,Silk,3791.0,13.0,3.5,383.0,1.0,18.0,3791.0
+Streetwear,Festive,Polyester,2008.0,17.0,3.6,532.0,23.0,8.6,2008.0
+Sustainable Wear,Spring/Summer,Silk,1243.0,24.0,4.3,500.0,51.0,12.0,1243.0
+Y2K Revival,Autumn/Winter,Denim,1963.0,18.0,4.0,347.0,35.0,14.4,1963.0
+Athleisure,Spring/Summer,Polyester,2760.0,27.0,4.1,348.0,12.0,20.5,2760.0
+Athleisure,Spring/Summer,Recycled Fibre,2256.0,27.0,4.3,334.0,44.0,16.3,2256.0
+Streetwear,Festive,Polyester,1617.0,31.0,3.7,165.0,45.0,10.4,1617.0
+Formal Wear,Spring/Summer,Polyester,4811.0,36.0,4.0,2253.0,81.0,11.6,4811.0
+Formal Wear,Spring/Summer,Linen,5136.0,32.0,4.0,338.0,24.0,20.3,5136.0
+Y2K Revival,Autumn/Winter,Polyester,2588.0,13.0,3.8,650.0,1.0,9.1,2588.0
+Sustainable Wear,Festive,Denim,1913.0,13.0,4.4,309.0,19.0,13.3,1913.0
+Streetwear,Spring/Summer,Polyester,2032.0,21.0,3.9,304.0,14.0,17.3,2032.0
+Athleisure,Spring/Summer,Polyester,2338.0,17.0,3.6,280.0,35.0,13.9,2338.0
+Ethnic Wear,Festive,Polyester,3265.0,11.0,4.5,117.0,1.0,26.8,3265.0
+Y2K Revival,Autumn/Winter,Linen,1015.0,18.0,3.1,355.0,24.0,15.1,1015.0
+Formal Wear,Festive,Polyester,4393.0,17.0,4.6,291.0,43.0,15.6,4393.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,3918.0,15.0,4.8,1030.0,37.0,8.9,3918.0
+Streetwear,Autumn/Winter,Polyester,2269.0,19.0,3.8,155.0,39.0,18.1,2269.0
+Y2K Revival,Spring/Summer,Polyester,1620.0,34.0,4.1,254.0,28.0,19.8,1620.0
+Streetwear,Spring/Summer,Linen,2010.0,24.0,4.6,197.0,22.0,10.8,2010.0
+Athleisure,Autumn/Winter,Cotton,3020.0,47.0,3.8,1279.0,81.0,16.6,3020.0
+Streetwear,Autumn/Winter,Silk,1605.0,24.0,4.4,201.0,42.0,9.7,1605.0
+Athleisure,Festive,Polyester,1466.0,19.0,3.7,633.0,38.0,10.0,1466.0
+Sustainable Wear,Autumn/Winter,Polyester,2610.0,22.0,4.0,877.0,26.0,20.3,2610.0
+Athleisure,Spring/Summer,Recycled Fibre,2448.0,25.0,3.6,359.0,35.0,13.5,2448.0
+Streetwear,Autumn/Winter,Recycled Fibre,1303.0,26.0,4.2,134.0,28.0,2.7,1303.0
+Ethnic Wear,Autumn/Winter,Denim,2023.0,43.0,4.6,135.0,71.0,23.5,2023.0
+Streetwear,Autumn/Winter,Polyester,1078.0,14.0,3.9,803.0,70.0,10.9,1078.0
+Streetwear,Autumn/Winter,Polyester,2225.0,31.0,3.4,147.0,42.0,15.8,2225.0
+Y2K Revival,Autumn/Winter,Recycled Fibre,1014.0,24.0,3.5,552.0,33.0,24.7,1014.0
+Formal Wear,Spring/Summer,Linen,3321.0,6.0,4.2,442.0,1.0,13.1,3321.0
+Ethnic Wear,Autumn/Winter,Silk,4033.0,30.0,4.9,546.0,24.0,12.4,4033.0
+Sustainable Wear,Autumn/Winter,Linen,2077.0,35.0,4.4,588.0,72.0,8.6,2077.0
+Y2K Revival,Festive,Recycled Fibre,1626.0,13.0,3.8,191.0,14.0,7.0,1626.0
+Sustainable Wear,Autumn/Winter,Cotton,2341.0,22.0,4.6,185.0,33.0,12.8,2341.0
+Sustainable Wear,Autumn/Winter,Linen,3290.0,5.0,4.1,715.0,29.0,15.8,3290.0
+Y2K Revival,Autumn/Winter,Cotton,1771.0,9.0,3.8,244.0,40.0,16.5,1771.0
+Ethnic Wear,Autumn/Winter,Polyester,2512.0,32.0,3.5,50.0,33.0,14.4,2512.0
+Formal Wear,Spring/Summer,Silk,3582.0,17.0,4.7,678.0,30.0,13.2,3582.0
+Ethnic Wear,Festive,Polyester,4611.0,11.0,2.7,176.0,4.0,8.6,4611.0
+Ethnic Wear,Festive,Polyester,3672.0,24.0,4.4,586.0,30.0,16.5,3672.0
+Sustainable Wear,Autumn/Winter,Denim,1595.0,17.0,4.0,1229.0,37.0,15.7,1595.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,3271.0,17.0,4.0,409.0,32.0,24.7,3271.0
+Sustainable Wear,Spring/Summer,Linen,1779.0,29.0,5.0,895.0,60.0,13.0,1779.0
+Athleisure,Autumn/Winter,Denim,2951.0,10.0,3.6,456.0,45.0,10.8,2951.0
+Y2K Revival,Autumn/Winter,Polyester,2147.0,13.0,3.7,1436.0,43.0,15.1,2147.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,2878.0,24.0,4.1,172.0,47.0,13.3,2878.0
+Ethnic Wear,Spring/Summer,Cotton,3381.0,32.0,4.2,401.0,29.0,17.3,3381.0
+Formal Wear,Autumn/Winter,Cotton,3532.0,34.0,3.8,691.0,49.0,16.3,3532.0
+Formal Wear,Spring/Summer,Polyester,4819.0,15.0,3.2,346.0,3.0,10.5,4819.0
+Streetwear,Autumn/Winter,Cotton,1932.0,31.0,3.6,1014.0,54.0,8.4,1932.0
+Streetwear,Autumn/Winter,Polyester,2389.0,14.0,4.6,286.0,40.0,14.5,2389.0
+Y2K Revival,Spring/Summer,Cotton,2035.0,40.0,4.0,2112.0,74.0,22.9,2035.0
+Ethnic Wear,Autumn/Winter,Silk,2629.0,11.0,4.2,2203.0,76.0,14.4,2629.0
+Formal Wear,Festive,Cotton,3063.0,35.0,3.9,506.0,62.0,20.1,3063.0
+Y2K Revival,Autumn/Winter,Cotton,988.0,15.0,3.7,628.0,49.0,20.6,988.0
+Formal Wear,Spring/Summer,Denim,2618.0,42.0,4.0,1047.0,75.0,15.4,2618.0
+Athleisure,Autumn/Winter,Silk,949.0,28.0,3.9,156.0,64.0,11.6,949.0
+Ethnic Wear,Spring/Summer,Denim,4131.0,12.0,3.8,141.0,1.0,16.1,4131.0
+Athleisure,Autumn/Winter,Polyester,3390.0,17.0,4.5,1102.0,55.0,19.6,3390.0
+Ethnic Wear,Autumn/Winter,Cotton,5270.0,30.0,3.6,502.0,17.0,19.1,5270.0
+Y2K Revival,Spring/Summer,Linen,849.0,33.0,3.7,337.0,41.0,20.1,849.0
+Streetwear,Autumn/Winter,Linen,2835.0,21.0,4.0,407.0,39.0,12.7,2835.0
+Streetwear,Autumn/Winter,Cotton,3619.0,22.0,4.0,60.0,41.0,14.1,3619.0
+Athleisure,Autumn/Winter,Denim,1534.0,30.0,4.1,346.0,32.0,14.7,1534.0
+Y2K Revival,Spring/Summer,Linen,1554.0,23.0,5.0,221.0,39.0,12.4,1554.0
+Athleisure,Spring/Summer,Recycled Fibre,891.0,9.0,4.2,841.0,37.0,19.8,891.0
+Athleisure,Autumn/Winter,Polyester,1976.0,14.0,2.8,894.0,24.0,6.0,1976.0
+Sustainable Wear,Spring/Summer,Linen,1792.0,24.0,4.4,640.0,56.0,14.4,1792.0
+Athleisure,Autumn/Winter,Cotton,1930.0,34.0,4.0,554.0,91.0,15.3,1930.0
+Streetwear,Spring/Summer,Denim,1274.0,38.0,4.0,122.0,56.0,9.0,1274.0
+Streetwear,Spring/Summer,Polyester,2660.0,30.0,4.1,647.0,36.0,18.6,2660.0
+Sustainable Wear,Autumn/Winter,Cotton,3721.0,25.0,4.2,667.0,22.0,11.1,3721.0
+Athleisure,Spring/Summer,Cotton,1368.0,29.0,4.0,1092.0,50.0,13.7,1368.0
+Athleisure,Autumn/Winter,Silk,1209.0,15.0,4.3,2196.0,46.0,23.2,1209.0
+Streetwear,Spring/Summer,Denim,1034.0,20.0,3.7,104.0,38.0,20.8,1034.0
+Athleisure,Autumn/Winter,Denim,1640.0,14.0,3.5,296.0,31.0,18.8,1640.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,2611.0,10.0,5.0,223.0,24.0,13.9,2611.0
+Sustainable Wear,Autumn/Winter,Denim,1511.0,25.0,3.8,463.0,64.0,14.9,1511.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,3047.0,24.0,4.3,408.0,28.0,24.4,3047.0
+Streetwear,Spring/Summer,Polyester,1879.0,29.0,3.3,335.0,36.0,21.2,1879.0
+Streetwear,Autumn/Winter,Linen,1510.0,27.0,4.1,918.0,58.0,11.4,1510.0
+Athleisure,Spring/Summer,Cotton,1482.0,24.0,3.5,167.0,44.0,9.4,1482.0
+Athleisure,Autumn/Winter,Cotton,2619.0,28.0,3.8,175.0,51.0,18.7,2619.0
+Formal Wear,Spring/Summer,Polyester,4693.0,22.0,4.5,178.0,32.0,13.6,4693.0
+Athleisure,Autumn/Winter,Cotton,1720.0,26.0,4.2,302.0,54.0,7.7,1720.0
+Streetwear,Spring/Summer,Denim,2732.0,15.0,4.3,151.0,19.0,16.1,2732.0
+Streetwear,Festive,Denim,1465.0,26.0,3.1,388.0,46.0,16.2,1465.0
+Sustainable Wear,Autumn/Winter,Polyester,2630.0,29.0,5.0,353.0,59.0,15.6,2630.0
+Streetwear,Autumn/Winter,Recycled Fibre,2316.0,15.0,3.4,215.0,40.0,18.5,2316.0
+Formal Wear,Spring/Summer,Polyester,3224.0,23.0,4.8,812.0,24.0,10.1,3224.0
+Formal Wear,Spring/Summer,Cotton,4426.0,16.0,4.5,385.0,14.0,16.7,4426.0
+Sustainable Wear,Spring/Summer,Polyester,1979.0,17.0,4.5,944.0,53.0,11.1,1979.0
+Sustainable Wear,Festive,Cotton,3108.0,11.0,3.8,345.0,1.0,12.9,3108.0
+Sustainable Wear,Autumn/Winter,Polyester,3154.0,35.0,4.3,396.0,52.0,12.3,3154.0
+Streetwear,Spring/Summer,Cotton,793.0,33.0,3.8,257.0,61.0,21.8,793.0
+Ethnic Wear,Autumn/Winter,Cotton,4854.0,27.0,4.0,401.0,23.0,13.9,4854.0
+Sustainable Wear,Autumn/Winter,Cotton,895.0,42.0,4.1,713.0,58.0,22.7,895.0
+Sustainable Wear,Spring/Summer,Denim,2096.0,20.0,3.2,290.0,14.0,25.9,2096.0
+Y2K Revival,Autumn/Winter,Cotton,2148.0,52.0,4.6,611.0,64.0,11.4,2148.0
+Athleisure,Spring/Summer,Polyester,1611.0,20.0,4.0,211.0,28.0,0.4,1611.0
+Streetwear,Spring/Summer,Linen,1317.0,25.0,3.8,740.0,36.0,21.0,1317.0
+Formal Wear,Autumn/Winter,Polyester,2591.0,18.0,3.7,254.0,18.0,13.9,2591.0
+Athleisure,Spring/Summer,Polyester,2578.0,26.0,4.2,797.0,41.0,10.5,2578.0
+Athleisure,Festive,Cotton,919.0,30.0,3.6,424.0,42.0,13.6,919.0
+Athleisure,Autumn/Winter,Silk,2672.0,21.0,2.9,1362.0,58.0,15.7,2672.0
+Y2K Revival,Festive,Linen,1471.0,40.0,4.2,160.0,49.0,22.0,1471.0
+Athleisure,Autumn/Winter,Silk,1186.0,24.0,4.3,124.0,45.0,15.2,1186.0
+Athleisure,Festive,Linen,1468.0,25.0,3.9,246.0,32.0,21.9,1468.0
+Athleisure,Spring/Summer,Cotton,1261.0,13.0,3.4,133.0,16.0,18.6,1261.0
+Athleisure,Autumn/Winter,Polyester,2437.0,26.0,4.0,133.0,15.0,13.8,2437.0
+Ethnic Wear,Autumn/Winter,Cotton,4135.0,21.0,3.3,663.0,6.0,14.8,4135.0
+Sustainable Wear,Festive,Polyester,1424.0,16.0,3.7,402.0,17.0,18.4,1424.0
+Ethnic Wear,Spring/Summer,Cotton,2778.0,14.0,3.6,275.0,24.0,19.8,2778.0
+Ethnic Wear,Autumn/Winter,Polyester,2366.0,49.0,4.4,296.0,74.0,20.4,2366.0
+Formal Wear,Autumn/Winter,Silk,5976.0,19.0,3.8,250.0,1.0,14.1,5955.125
+Athleisure,Spring/Summer,Cotton,1122.0,7.0,3.8,1511.0,32.0,15.7,1122.0
+Formal Wear,Festive,Cotton,6662.0,15.0,4.0,224.0,1.0,15.2,5955.125
+Ethnic Wear,Spring/Summer,Silk,3163.0,21.0,4.2,140.0,26.0,12.6,3163.0
+Athleisure,Spring/Summer,Polyester,1199.0,27.0,4.2,763.0,63.0,9.2,1199.0
+Formal Wear,Autumn/Winter,Recycled Fibre,2998.0,28.0,3.8,339.0,30.0,11.9,2998.0
+Formal Wear,Autumn/Winter,Denim,2870.0,29.0,3.7,2061.0,56.0,15.0,2870.0
+Sustainable Wear,Spring/Summer,Denim,1664.0,16.0,3.1,265.0,41.0,20.4,1664.0
+Y2K Revival,Spring/Summer,Polyester,1551.0,25.0,4.5,794.0,55.0,20.3,1551.0
+Streetwear,Spring/Summer,Cotton,1431.0,13.0,4.2,959.0,30.0,7.4,1431.0
+Ethnic Wear,Autumn/Winter,Linen,1492.0,16.0,3.9,266.0,33.0,12.1,1492.0
+Y2K Revival,Festive,Silk,1313.0,13.0,3.9,223.0,18.0,13.1,1313.0
+Streetwear,Autumn/Winter,Cotton,1171.0,10.0,4.4,730.0,41.0,17.5,1171.0
+Formal Wear,Spring/Summer,Polyester,2920.0,33.0,3.2,639.0,45.0,15.0,2920.0
+Sustainable Wear,Autumn/Winter,Cotton,1891.0,29.0,3.9,131.0,23.0,13.6,1891.0
+Formal Wear,Festive,Cotton,2801.0,32.0,3.4,164.0,37.0,10.0,2801.0
+Ethnic Wear,Autumn/Winter,Cotton,6446.0,22.0,4.9,53.0,20.0,15.3,5955.125
+Sustainable Wear,Spring/Summer,Cotton,2652.0,30.0,4.6,650.0,56.0,13.2,2652.0
+Streetwear,Spring/Summer,Denim,2397.0,4.0,2.9,327.0,19.0,13.7,2397.0
+Sustainable Wear,Festive,Cotton,1396.0,31.0,3.4,354.0,47.0,15.8,1396.0
+Athleisure,Festive,Linen,1432.0,24.0,3.9,104.0,33.0,21.1,1432.0
+Athleisure,Spring/Summer,Denim,1941.0,28.0,3.8,168.0,49.0,10.9,1941.0
+Streetwear,Festive,Polyester,1537.0,26.0,3.3,275.0,24.0,12.8,1537.0
+Athleisure,Spring/Summer,Linen,2473.0,12.0,5.0,236.0,16.0,18.4,2473.0
+Athleisure,Spring/Summer,Silk,1182.0,7.0,4.2,443.0,1.0,14.2,1182.0
+Formal Wear,Autumn/Winter,Cotton,3438.0,15.0,4.2,643.0,28.0,17.6,3438.0
+Formal Wear,Autumn/Winter,Polyester,3095.0,28.0,4.0,2479.0,50.0,18.2,3095.0
+Formal Wear,Autumn/Winter,Recycled Fibre,4025.0,29.0,4.4,397.0,43.0,14.3,4025.0
+Sustainable Wear,Festive,Recycled Fibre,2078.0,8.0,4.0,985.0,7.0,12.7,2078.0
+Y2K Revival,Festive,Recycled Fibre,1364.0,12.0,3.9,208.0,19.0,19.0,1364.0
+Ethnic Wear,Spring/Summer,Denim,2946.0,15.0,4.3,106.0,31.0,19.8,2946.0
+Athleisure,Autumn/Winter,Polyester,1392.0,18.0,3.2,304.0,16.0,22.3,1392.0
+Athleisure,Autumn/Winter,Cotton,2133.0,8.0,4.8,112.0,31.0,6.5,2133.0
+Ethnic Wear,Autumn/Winter,Linen,3478.0,8.0,4.1,408.0,12.0,20.7,3478.0
+Athleisure,Festive,Silk,1745.0,14.0,4.6,216.0,33.0,11.4,1745.0
+Streetwear,Autumn/Winter,Recycled Fibre,1892.0,23.0,3.5,84.0,37.0,12.6,1892.0
+Y2K Revival,Spring/Summer,Recycled Fibre,1982.0,10.0,3.5,1618.0,48.0,14.9,1982.0
+Athleisure,Spring/Summer,Denim,1657.0,21.0,3.4,262.0,32.0,20.7,1657.0
+Athleisure,Festive,Polyester,1617.0,33.0,4.1,109.0,36.0,18.1,1617.0
+Y2K Revival,Festive,Silk,1556.0,9.0,4.0,828.0,26.0,13.2,1556.0
+Ethnic Wear,Spring/Summer,Cotton,5795.0,20.0,3.8,225.0,24.0,19.7,5795.0
+Athleisure,Spring/Summer,Linen,1126.0,32.0,4.0,965.0,40.0,17.5,1126.0
+Y2K Revival,Autumn/Winter,Recycled Fibre,1964.0,18.0,3.4,224.0,24.0,13.5,1964.0
+Y2K Revival,Spring/Summer,Recycled Fibre,773.0,16.0,4.0,262.0,30.0,11.3,773.0
+Ethnic Wear,Spring/Summer,Polyester,3453.0,34.0,3.8,532.0,40.0,18.3,3453.0
+Ethnic Wear,Festive,Polyester,5554.0,19.0,3.7,648.0,8.0,15.3,5554.0
+Sustainable Wear,Festive,Polyester,3085.0,33.0,5.0,746.0,32.0,6.3,3085.0
+Athleisure,Festive,Cotton,1911.0,26.0,4.0,375.0,47.0,19.5,1911.0
+Ethnic Wear,Autumn/Winter,Cotton,2630.0,19.0,4.6,616.0,50.0,11.0,2630.0
+Sustainable Wear,Spring/Summer,Denim,2628.0,27.0,3.9,733.0,20.0,23.6,2628.0
+Ethnic Wear,Festive,Polyester,2930.0,25.0,4.1,474.0,42.0,8.0,2930.0
+Formal Wear,Spring/Summer,Denim,2886.0,32.0,4.0,360.0,55.0,14.7,2886.0
+Athleisure,Spring/Summer,Cotton,1626.0,17.0,3.2,127.0,31.0,13.4,1626.0
+Ethnic Wear,Festive,Recycled Fibre,3430.0,22.0,4.7,652.0,35.0,8.5,3430.0
+Sustainable Wear,Autumn/Winter,Linen,1988.0,21.0,4.1,417.0,25.0,12.4,1988.0
+Y2K Revival,Festive,Silk,1131.0,29.0,4.4,290.0,49.0,23.3,1131.0
+Sustainable Wear,Spring/Summer,Silk,1615.0,12.0,3.8,1121.0,39.0,15.8,1615.0
+Ethnic Wear,Festive,Recycled Fibre,3669.0,32.0,3.9,129.0,36.0,11.9,3669.0
+Ethnic Wear,Autumn/Winter,Denim,3873.0,27.0,3.6,1503.0,41.0,7.2,3873.0
+Streetwear,Autumn/Winter,Linen,2386.0,9.0,4.6,396.0,15.0,4.3,2386.0
+Ethnic Wear,Festive,Cotton,4486.0,34.0,4.2,520.0,46.0,12.5,4486.0
+Formal Wear,Spring/Summer,Cotton,3919.0,44.0,4.2,294.0,55.0,12.5,3919.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,3671.0,32.0,4.7,106.0,43.0,12.7,3671.0
+Formal Wear,Autumn/Winter,Polyester,4226.0,36.0,4.6,361.0,46.0,2.9,4226.0
+Y2K Revival,Autumn/Winter,Linen,1453.0,23.0,4.4,527.0,65.0,13.7,1453.0
+Streetwear,Festive,Linen,1827.0,5.0,3.3,693.0,12.0,21.1,1827.0
+Streetwear,Autumn/Winter,Polyester,4775.0,4.0,3.7,344.0,22.0,23.1,4775.0
+Athleisure,Spring/Summer,Recycled Fibre,1537.0,25.0,3.5,70.0,24.0,7.0,1537.0
+Formal Wear,Spring/Summer,Recycled Fibre,3010.0,16.0,4.4,118.0,40.0,9.8,3010.0
+Ethnic Wear,Festive,Recycled Fibre,3725.0,13.0,4.1,2083.0,57.0,10.1,3725.0
+Streetwear,Festive,Recycled Fibre,2403.0,21.0,3.3,168.0,22.0,17.5,2403.0
+Athleisure,Festive,Cotton,1101.0,28.0,4.0,1263.0,75.0,9.6,1101.0
+Y2K Revival,Spring/Summer,Linen,2222.0,7.0,3.3,191.0,20.0,24.5,2222.0
+Streetwear,Spring/Summer,Denim,2129.0,18.0,4.0,349.0,21.0,15.1,2129.0
+Ethnic Wear,Autumn/Winter,Cotton,2169.0,37.0,4.0,665.0,42.0,17.2,2169.0
+Athleisure,Autumn/Winter,Silk,2729.0,11.0,4.3,209.0,37.0,21.8,2729.0
+Y2K Revival,Spring/Summer,Recycled Fibre,1867.0,31.0,4.2,1442.0,70.0,15.0,1867.0
+Athleisure,Autumn/Winter,Polyester,1156.0,17.0,5.0,429.0,31.0,14.4,1156.0
+Athleisure,Spring/Summer,Cotton,3353.0,27.0,4.4,583.0,39.0,10.6,3353.0
+Formal Wear,Autumn/Winter,Linen,4785.0,33.0,3.8,326.0,35.0,9.3,4785.0
+Y2K Revival,Spring/Summer,Polyester,1495.0,29.0,4.4,683.0,45.0,11.4,1495.0
+Sustainable Wear,Spring/Summer,Denim,4536.0,31.0,3.5,1427.0,71.0,27.7,4536.0
+Streetwear,Spring/Summer,Polyester,2326.0,10.0,3.5,363.0,23.0,18.9,2326.0
+Formal Wear,Festive,Cotton,3763.0,33.0,4.2,1610.0,55.0,16.5,3763.0
+Y2K Revival,Autumn/Winter,Linen,1190.0,13.0,2.9,247.0,35.0,12.5,1190.0
+Streetwear,Festive,Polyester,2697.0,25.0,4.0,743.0,36.0,19.8,2697.0
+Streetwear,Autumn/Winter,Cotton,2599.0,25.0,3.5,597.0,47.0,9.7,2599.0
+Formal Wear,Autumn/Winter,Linen,3820.0,27.0,4.1,172.0,12.0,7.3,3820.0
+Formal Wear,Spring/Summer,Linen,2882.0,25.0,3.5,479.0,27.0,13.7,2882.0
+Formal Wear,Autumn/Winter,Cotton,3977.0,14.0,4.2,406.0,36.0,24.0,3977.0
+Ethnic Wear,Spring/Summer,Linen,3123.0,9.0,4.0,204.0,37.0,23.9,3123.0
+Athleisure,Autumn/Winter,Linen,1129.0,31.0,4.7,537.0,46.0,11.5,1129.0
+Y2K Revival,Festive,Recycled Fibre,896.0,24.0,4.0,454.0,33.0,11.8,896.0
+Formal Wear,Festive,Polyester,4631.0,33.0,3.6,381.0,39.0,8.4,4631.0
+Formal Wear,Spring/Summer,Cotton,1529.0,22.0,3.9,382.0,30.0,15.7,1529.0
+Athleisure,Autumn/Winter,Denim,1934.0,8.0,3.3,375.0,15.0,17.0,1934.0
+Sustainable Wear,Spring/Summer,Linen,2199.0,32.0,4.4,301.0,57.0,18.5,2199.0
+Formal Wear,Spring/Summer,Cotton,6007.0,18.0,4.3,451.0,13.0,18.7,5955.125
+Athleisure,Autumn/Winter,Denim,1514.0,25.0,5.0,241.0,24.0,11.8,1514.0
+Y2K Revival,Autumn/Winter,Cotton,1889.0,16.0,3.7,3379.0,49.0,18.3,1889.0
+Streetwear,Autumn/Winter,Recycled Fibre,1915.0,38.0,3.9,131.0,47.0,12.6,1915.0
+Formal Wear,Spring/Summer,Recycled Fibre,3954.0,13.0,3.7,253.0,1.0,18.1,3954.0
+Y2K Revival,Festive,Denim,1941.0,19.0,4.1,269.0,30.0,12.2,1941.0
+Streetwear,Festive,Denim,1871.0,23.0,4.2,2064.0,43.0,16.9,1871.0
+Sustainable Wear,Autumn/Winter,Cotton,3685.0,11.0,4.2,140.0,38.0,15.9,3685.0
+Ethnic Wear,Festive,Recycled Fibre,2260.0,25.0,4.5,567.0,70.0,14.3,2260.0
+Ethnic Wear,Spring/Summer,Polyester,3548.0,38.0,3.7,492.0,31.0,20.6,3548.0
+Streetwear,Autumn/Winter,Silk,3039.0,17.0,4.5,527.0,37.0,5.7,3039.0
+Ethnic Wear,Festive,Linen,4032.0,26.0,4.3,1085.0,31.0,9.2,4032.0
+Y2K Revival,Festive,Cotton,2934.0,0.0,4.0,1067.0,17.0,12.6,2934.0
+Streetwear,Festive,Cotton,1684.0,22.0,3.8,281.0,56.0,8.4,1684.0
+Athleisure,Autumn/Winter,Cotton,1111.0,19.0,5.0,471.0,41.0,10.4,1111.0
+Streetwear,Festive,Cotton,1553.0,14.0,3.6,91.0,21.0,13.8,1553.0
+Streetwear,Autumn/Winter,Cotton,2772.0,33.0,4.1,437.0,33.0,21.9,2772.0
+Athleisure,Spring/Summer,Denim,2143.0,19.0,3.6,214.0,42.0,16.7,2143.0
+Athleisure,Spring/Summer,Polyester,1866.0,20.0,4.9,348.0,3.0,17.9,1866.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,2160.0,18.0,4.4,105.0,27.0,15.4,2160.0
+Sustainable Wear,Autumn/Winter,Denim,3400.0,3.0,3.9,558.0,14.0,11.7,3400.0
+Y2K Revival,Autumn/Winter,Recycled Fibre,977.0,11.0,4.3,104.0,22.0,14.5,977.0
+Sustainable Wear,Festive,Polyester,3901.0,32.0,4.3,454.0,51.0,18.5,3901.0
+Athleisure,Autumn/Winter,Denim,4893.0,1.0,3.7,151.0,15.0,20.8,4893.0
+Formal Wear,Spring/Summer,Cotton,4320.0,14.0,4.4,204.0,4.0,13.0,4320.0
+Y2K Revival,Autumn/Winter,Recycled Fibre,1840.0,18.0,4.2,1016.0,68.0,6.2,1840.0
+Sustainable Wear,Autumn/Winter,Denim,2188.0,39.0,4.3,646.0,39.0,6.6,2188.0
+Sustainable Wear,Autumn/Winter,Linen,1380.0,30.0,4.2,1012.0,71.0,13.4,1380.0
+Athleisure,Autumn/Winter,Linen,1458.0,16.0,4.2,1405.0,49.0,2.6,1458.0
+Ethnic Wear,Autumn/Winter,Cotton,2183.0,35.0,4.1,217.0,40.0,24.5,2183.0
+Streetwear,Autumn/Winter,Polyester,1326.0,15.0,4.0,1338.0,39.0,17.7,1326.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,4751.0,32.0,3.9,125.0,30.0,12.7,4751.0
+Athleisure,Festive,Cotton,1980.0,8.0,4.8,733.0,37.0,6.9,1980.0
+Streetwear,Spring/Summer,Cotton,2513.0,33.0,3.5,272.0,28.0,22.0,2513.0
+Y2K Revival,Autumn/Winter,Linen,1346.0,18.0,4.2,192.0,32.0,8.8,1346.0
+Ethnic Wear,Autumn/Winter,Cotton,3012.0,12.0,3.8,660.0,16.0,10.0,3012.0
+Streetwear,Spring/Summer,Denim,3083.0,20.0,4.9,859.0,29.0,8.9,3083.0
+Athleisure,Autumn/Winter,Cotton,6952.0,25.0,3.5,839.0,11.0,17.1,5955.125
+Sustainable Wear,Autumn/Winter,Recycled Fibre,3131.0,17.0,3.8,479.0,13.0,18.5,3131.0
+Sustainable Wear,Autumn/Winter,Cotton,2428.0,28.0,3.7,448.0,33.0,22.1,2428.0
+Formal Wear,Autumn/Winter,Denim,3371.0,16.0,4.2,615.0,35.0,19.5,3371.0
+Y2K Revival,Spring/Summer,Polyester,917.0,28.0,3.3,514.0,44.0,17.2,917.0
+Y2K Revival,Spring/Summer,Cotton,751.0,26.0,3.8,622.0,70.0,20.9,751.0
+Y2K Revival,Spring/Summer,Cotton,1369.0,21.0,2.9,475.0,4.0,14.4,1369.0
+Y2K Revival,Autumn/Winter,Linen,1530.0,18.0,4.1,792.0,46.0,5.5,1530.0
+Y2K Revival,Autumn/Winter,Denim,956.0,24.0,3.7,110.0,37.0,12.6,956.0
+Athleisure,Festive,Denim,1778.0,28.0,3.3,363.0,47.0,13.1,1778.0
+Athleisure,Autumn/Winter,Polyester,1834.0,43.0,4.5,133.0,66.0,11.7,1834.0
+Sustainable Wear,Spring/Summer,Polyester,1223.0,31.0,3.5,503.0,43.0,12.0,1223.0
+Ethnic Wear,Spring/Summer,Cotton,2323.0,32.0,4.4,1500.0,63.0,12.3,2323.0
+Athleisure,Spring/Summer,Linen,2076.0,53.0,3.6,276.0,51.0,20.8,2076.0
+Formal Wear,Autumn/Winter,Linen,4351.0,27.0,4.8,447.0,46.0,21.9,4351.0
+Ethnic Wear,Spring/Summer,Cotton,2137.0,27.0,4.4,739.0,25.0,5.7,2137.0
+Ethnic Wear,Autumn/Winter,Linen,3382.0,29.0,3.5,77.0,39.0,10.3,3382.0
+Athleisure,Autumn/Winter,Denim,2574.0,12.0,3.5,266.0,19.0,11.9,2574.0
+Sustainable Wear,Autumn/Winter,Cotton,3413.0,18.0,4.5,540.0,27.0,17.5,3413.0
+Athleisure,Spring/Summer,Cotton,1741.0,17.0,3.9,50.0,25.0,14.1,1741.0
+Formal Wear,Spring/Summer,Cotton,3226.0,28.0,3.9,185.0,32.0,12.0,3226.0
+Ethnic Wear,Autumn/Winter,Cotton,2567.0,20.0,4.6,973.0,60.0,17.1,2567.0
+Formal Wear,Autumn/Winter,Cotton,4476.0,23.0,3.6,900.0,69.0,20.9,4476.0
+Sustainable Wear,Spring/Summer,Silk,2784.0,33.0,4.2,544.0,61.0,15.1,2784.0
+Streetwear,Festive,Cotton,2742.0,31.0,4.5,817.0,44.0,10.2,2742.0
+Streetwear,Autumn/Winter,Recycled Fibre,2304.0,20.0,4.4,479.0,45.0,15.4,2304.0
+Formal Wear,Autumn/Winter,Denim,5061.0,15.0,3.9,629.0,28.0,13.8,5061.0
+Formal Wear,Spring/Summer,Denim,3928.0,33.0,3.9,313.0,26.0,14.7,3928.0
+Sustainable Wear,Spring/Summer,Silk,3422.0,30.0,3.3,443.0,18.0,14.7,3422.0
+Y2K Revival,Spring/Summer,Cotton,2035.0,6.0,3.5,243.0,15.0,20.2,2035.0
+Athleisure,Spring/Summer,Cotton,1358.0,19.0,4.2,1109.0,56.0,15.7,1358.0
+Y2K Revival,Autumn/Winter,Cotton,797.0,24.0,3.9,1363.0,35.0,20.6,797.0
+Athleisure,Autumn/Winter,Denim,3089.0,30.0,4.0,1217.0,41.0,22.2,3089.0
+Sustainable Wear,Festive,Denim,2844.0,31.0,4.7,291.0,52.0,16.1,2844.0
+Formal Wear,Festive,Polyester,2085.0,25.0,3.4,188.0,32.0,14.2,2085.0
+Athleisure,Spring/Summer,Polyester,1402.0,28.0,3.9,1121.0,69.0,20.9,1402.0
+Streetwear,Spring/Summer,Polyester,2882.0,23.0,4.1,623.0,21.0,17.2,2882.0
+Streetwear,Autumn/Winter,Cotton,1995.0,15.0,3.6,525.0,57.0,28.8,1995.0
+Sustainable Wear,Festive,Denim,2173.0,19.0,4.2,243.0,20.0,14.3,2173.0
+Formal Wear,Festive,Cotton,6205.0,22.0,4.5,567.0,1.0,17.3,5955.125
+Formal Wear,Spring/Summer,Polyester,2634.0,22.0,4.1,169.0,31.0,16.3,2634.0
+Y2K Revival,Spring/Summer,Polyester,1134.0,3.0,4.9,670.0,20.0,11.4,1134.0
+Sustainable Wear,Spring/Summer,Cotton,2800.0,18.0,3.5,1216.0,35.0,14.9,2800.0
+Ethnic Wear,Festive,Polyester,3669.0,23.0,4.0,1487.0,43.0,16.6,3669.0
+Sustainable Wear,Autumn/Winter,Denim,3093.0,19.0,4.4,711.0,34.0,16.6,3093.0
+Sustainable Wear,Autumn/Winter,Cotton,3577.0,20.0,3.7,134.0,13.0,21.5,3577.0
+Athleisure,Autumn/Winter,Linen,1930.0,27.0,4.2,472.0,49.0,16.4,1930.0
+Y2K Revival,Spring/Summer,Polyester,1780.0,11.0,3.4,2234.0,41.0,13.7,1780.0
+Y2K Revival,Autumn/Winter,Cotton,1370.0,6.0,4.3,201.0,38.0,11.9,1370.0
+Formal Wear,Spring/Summer,Cotton,3884.0,19.0,4.5,385.0,28.0,7.1,3884.0
+Streetwear,Autumn/Winter,Cotton,2284.0,30.0,4.1,1250.0,42.0,23.6,2284.0
+Streetwear,Autumn/Winter,Cotton,2372.0,39.0,3.1,661.0,26.0,15.5,2372.0
+Ethnic Wear,Autumn/Winter,Polyester,4194.0,30.0,3.5,2934.0,59.0,21.6,4194.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,3886.0,7.0,4.3,224.0,1.0,15.0,3886.0
+Streetwear,Festive,Recycled Fibre,2234.0,20.0,4.0,183.0,15.0,16.5,2234.0
+Athleisure,Autumn/Winter,Denim,1356.0,25.0,2.7,1074.0,46.0,17.9,1356.0
+Athleisure,Spring/Summer,Polyester,1843.0,24.0,4.6,155.0,20.0,9.8,1843.0
+Y2K Revival,Spring/Summer,Recycled Fibre,1485.0,27.0,4.1,345.0,60.0,10.3,1485.0
+Streetwear,Autumn/Winter,Silk,2354.0,13.0,3.6,383.0,26.0,24.3,2354.0
+Y2K Revival,Spring/Summer,Cotton,3247.0,23.0,4.5,924.0,42.0,14.5,3247.0
+Athleisure,Spring/Summer,Polyester,1499.0,26.0,3.7,659.0,30.0,21.7,1499.0
+Ethnic Wear,Spring/Summer,Linen,3710.0,30.0,3.7,582.0,46.0,23.2,3710.0
+Sustainable Wear,Spring/Summer,Recycled Fibre,3779.0,14.0,4.4,292.0,24.0,11.6,3779.0
+Sustainable Wear,Autumn/Winter,Polyester,2691.0,19.0,5.0,1066.0,39.0,14.6,2691.0
+Athleisure,Autumn/Winter,Cotton,4080.0,0.0,4.8,10104.0,134.0,12.2,4080.0
+Athleisure,Spring/Summer,Denim,1577.0,16.0,4.2,701.0,18.0,8.5,1577.0
+Y2K Revival,Autumn/Winter,Cotton,1680.0,17.0,4.2,437.0,16.0,13.4,1680.0
+Sustainable Wear,Spring/Summer,Denim,1966.0,12.0,4.6,143.0,16.0,16.0,1966.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,2830.0,24.0,4.0,242.0,33.0,14.2,2830.0
+Streetwear,Spring/Summer,Denim,2400.0,21.0,4.3,340.0,36.0,12.7,2400.0
+Streetwear,Autumn/Winter,Recycled Fibre,2958.0,0.0,3.6,263.0,21.0,14.1,2958.0
+Ethnic Wear,Festive,Cotton,3578.0,24.0,4.2,398.0,23.0,25.3,3578.0
+Athleisure,Autumn/Winter,Silk,2797.0,13.0,3.9,1673.0,47.0,5.7,2797.0
+Y2K Revival,Spring/Summer,Recycled Fibre,1451.0,27.0,4.3,1094.0,53.0,17.1,1451.0
+Formal Wear,Spring/Summer,Recycled Fibre,3383.0,9.0,4.1,355.0,8.0,12.9,3383.0
+Formal Wear,Spring/Summer,Cotton,9790.0,22.0,2.5,153.0,1.0,15.6,5955.125
+Streetwear,Festive,Cotton,2526.0,19.0,4.1,1176.0,41.0,13.3,2526.0
+Athleisure,Spring/Summer,Polyester,1399.0,25.0,4.3,388.0,36.0,17.8,1399.0
+Y2K Revival,Festive,Polyester,1176.0,23.0,4.2,101.0,39.0,18.3,1176.0
+Streetwear,Autumn/Winter,Linen,1582.0,19.0,3.9,713.0,37.0,16.1,1582.0
+Athleisure,Autumn/Winter,Denim,2498.0,7.0,4.8,916.0,32.0,17.8,2498.0
+Streetwear,Festive,Recycled Fibre,1937.0,7.0,4.2,58.0,16.0,20.2,1937.0
+Formal Wear,Spring/Summer,Silk,3973.0,16.0,4.2,209.0,7.0,18.4,3973.0
+Ethnic Wear,Autumn/Winter,Cotton,3130.0,22.0,4.5,369.0,37.0,11.1,3130.0
+Formal Wear,Spring/Summer,Polyester,4909.0,16.0,4.2,726.0,15.0,16.8,4909.0
+Formal Wear,Festive,Polyester,2825.0,28.0,3.6,267.0,22.0,18.9,2825.0
+Sustainable Wear,Autumn/Winter,Cotton,1784.0,19.0,3.0,207.0,22.0,13.4,1784.0
+Y2K Revival,Spring/Summer,Cotton,1623.0,12.0,3.8,722.0,40.0,7.3,1623.0
+Streetwear,Festive,Polyester,2715.0,19.0,3.9,277.0,35.0,3.8,2715.0
+Ethnic Wear,Spring/Summer,Cotton,3595.0,24.0,3.8,622.0,27.0,16.0,3595.0
+Athleisure,Spring/Summer,Linen,1356.0,25.0,4.4,166.0,35.0,15.7,1356.0
+Y2K Revival,Autumn/Winter,Cotton,1901.0,41.0,4.0,137.0,59.0,9.9,1901.0
+Sustainable Wear,Autumn/Winter,Cotton,2004.0,15.0,4.8,738.0,12.0,18.0,2004.0
+Athleisure,Festive,Cotton,1500.0,21.0,3.9,494.0,48.0,16.1,1500.0
+Streetwear,Autumn/Winter,Silk,1581.0,26.0,4.2,844.0,26.0,21.5,1581.0
+Athleisure,Autumn/Winter,Linen,2838.0,22.0,4.3,263.0,17.0,16.2,2838.0
+Athleisure,Spring/Summer,Polyester,2247.0,17.0,4.8,214.0,29.0,7.5,2247.0
+Ethnic Wear,Spring/Summer,Cotton,3955.0,7.0,3.1,1198.0,44.0,18.9,3955.0
+Streetwear,Festive,Denim,3404.0,17.0,3.8,119.0,42.0,18.7,3404.0
+Y2K Revival,Spring/Summer,Linen,4014.0,11.0,4.4,1098.0,39.0,10.8,4014.0
+Sustainable Wear,Autumn/Winter,Silk,1429.0,5.0,5.0,1160.0,45.0,4.5,1429.0
+Formal Wear,Spring/Summer,Linen,2935.0,14.0,4.1,803.0,9.0,15.0,2935.0
+Streetwear,Spring/Summer,Recycled Fibre,1773.0,12.0,3.9,233.0,28.0,9.8,1773.0
+Ethnic Wear,Autumn/Winter,Denim,2376.0,28.0,4.4,210.0,35.0,20.0,2376.0
+Ethnic Wear,Autumn/Winter,Polyester,2195.0,28.0,4.4,341.0,34.0,12.4,2195.0
+Streetwear,Autumn/Winter,Silk,1981.0,13.0,3.8,143.0,26.0,23.8,1981.0
+Y2K Revival,Festive,Cotton,980.0,19.0,4.2,187.0,31.0,3.8,980.0
+Streetwear,Spring/Summer,Silk,2474.0,3.0,4.6,676.0,36.0,13.3,2474.0
+Athleisure,Autumn/Winter,Polyester,1833.0,17.0,4.9,678.0,20.0,19.7,1833.0
+Ethnic Wear,Spring/Summer,Cotton,3787.0,26.0,4.4,174.0,34.0,9.8,3787.0
+Formal Wear,Autumn/Winter,Denim,4539.0,30.0,4.0,693.0,27.0,14.7,4539.0
+Athleisure,Spring/Summer,Denim,2223.0,15.0,4.0,580.0,27.0,12.7,2223.0
+Streetwear,Autumn/Winter,Cotton,1930.0,33.0,4.3,1350.0,64.0,11.5,1930.0
+Y2K Revival,Spring/Summer,Denim,3151.0,7.0,3.9,636.0,7.0,15.8,3151.0
+Formal Wear,Festive,Polyester,4125.0,10.0,4.1,941.0,27.0,7.8,4125.0
+Y2K Revival,Festive,Polyester,782.0,29.0,3.5,591.0,44.0,16.1,782.0
+Ethnic Wear,Festive,Denim,2253.0,39.0,4.6,884.0,54.0,17.0,2253.0
+Ethnic Wear,Spring/Summer,Polyester,1740.0,27.0,3.4,144.0,29.0,15.8,1740.0
+Sustainable Wear,Festive,Polyester,2616.0,22.0,4.0,366.0,32.0,10.1,2616.0
+Y2K Revival,Spring/Summer,Silk,1437.0,0.0,4.0,391.0,10.0,19.2,1437.0
+Streetwear,Spring/Summer,Cotton,1867.0,2.0,5.0,332.0,26.0,15.3,1867.0
+Formal Wear,Spring/Summer,Polyester,7682.0,23.0,3.8,575.0,12.0,10.4,5955.125
+Streetwear,Spring/Summer,Polyester,2666.0,18.0,3.7,670.0,24.0,9.2,2666.0
+Ethnic Wear,Autumn/Winter,Silk,4126.0,11.0,3.7,552.0,37.0,10.5,4126.0
+Formal Wear,Spring/Summer,Cotton,2743.0,23.0,4.8,350.0,45.0,15.9,2743.0
+Streetwear,Spring/Summer,Cotton,1551.0,23.0,2.6,224.0,21.0,20.0,1551.0
+Y2K Revival,Autumn/Winter,Recycled Fibre,1519.0,31.0,3.5,970.0,51.0,20.8,1519.0
+Streetwear,Festive,Cotton,2337.0,23.0,5.0,534.0,33.0,11.0,2337.0
+Ethnic Wear,Autumn/Winter,Polyester,1671.0,34.0,4.3,179.0,43.0,10.3,1671.0
+Streetwear,Autumn/Winter,Recycled Fibre,2065.0,22.0,3.4,346.0,27.0,21.2,2065.0
+Streetwear,Spring/Summer,Recycled Fibre,2211.0,21.0,4.0,100.0,16.0,12.3,2211.0
+Streetwear,Festive,Cotton,2040.0,33.0,4.0,415.0,51.0,16.6,2040.0
+Athleisure,Spring/Summer,Denim,1354.0,12.0,4.4,344.0,27.0,5.9,1354.0
+Athleisure,Spring/Summer,Recycled Fibre,1490.0,50.0,4.9,255.0,65.0,11.4,1490.0
+Ethnic Wear,Spring/Summer,Polyester,3008.0,26.0,4.2,1433.0,43.0,19.8,3008.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,3303.0,26.0,3.7,160.0,65.0,12.5,3303.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,3954.0,27.0,4.4,710.0,32.0,18.4,3954.0
+Athleisure,Autumn/Winter,Linen,2628.0,41.0,3.7,2320.0,47.0,5.1,2628.0
+Sustainable Wear,Spring/Summer,Linen,2345.0,30.0,3.7,955.0,27.0,13.5,2345.0
+Athleisure,Autumn/Winter,Recycled Fibre,1534.0,6.0,3.1,393.0,26.0,15.7,1534.0
+Formal Wear,Autumn/Winter,Denim,4429.0,36.0,3.2,163.0,46.0,26.5,4429.0
+Formal Wear,Spring/Summer,Linen,4706.0,19.0,3.6,136.0,9.0,10.1,4706.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,2233.0,23.0,3.6,290.0,47.0,19.5,2233.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,4220.0,9.0,4.2,233.0,25.0,19.2,4220.0
+Athleisure,Autumn/Winter,Denim,2536.0,27.0,3.4,227.0,30.0,13.2,2536.0
+Sustainable Wear,Spring/Summer,Denim,4086.0,15.0,2.6,311.0,7.0,16.4,4086.0
+Athleisure,Autumn/Winter,Cotton,3354.0,23.0,3.5,372.0,30.0,17.1,3354.0
+Sustainable Wear,Spring/Summer,Cotton,1920.0,19.0,4.0,595.0,47.0,7.5,1920.0
+Ethnic Wear,Spring/Summer,Linen,3216.0,41.0,3.7,150.0,48.0,14.5,3216.0
+Y2K Revival,Spring/Summer,Polyester,1506.0,42.0,4.8,234.0,53.0,20.5,1506.0
+Sustainable Wear,Autumn/Winter,Linen,2512.0,22.0,3.9,355.0,31.0,18.0,2512.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,2550.0,23.0,4.4,345.0,62.0,13.4,2550.0
+Formal Wear,Autumn/Winter,Denim,2259.0,18.0,4.0,1753.0,51.0,15.5,2259.0
+Y2K Revival,Spring/Summer,Polyester,1549.0,33.0,4.0,486.0,60.0,18.6,1549.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,2445.0,19.0,3.6,111.0,32.0,19.8,2445.0
+Sustainable Wear,Spring/Summer,Cotton,2679.0,18.0,4.2,564.0,37.0,11.6,2679.0
+Ethnic Wear,Autumn/Winter,Linen,2424.0,32.0,3.6,624.0,45.0,24.3,2424.0
+Sustainable Wear,Autumn/Winter,Cotton,1769.0,17.0,4.3,365.0,46.0,20.7,1769.0
+Y2K Revival,Spring/Summer,Polyester,1628.0,22.0,3.9,153.0,43.0,18.7,1628.0
+Streetwear,Spring/Summer,Linen,2319.0,6.0,3.5,1647.0,35.0,11.3,2319.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,3919.0,29.0,4.5,171.0,28.0,9.1,3919.0
+Athleisure,Festive,Silk,3868.0,41.0,4.2,684.0,56.0,13.9,3868.0
+Streetwear,Festive,Polyester,2424.0,29.0,3.8,473.0,40.0,16.3,2424.0
+Y2K Revival,Spring/Summer,Cotton,1778.0,37.0,4.1,652.0,51.0,6.8,1778.0
+Ethnic Wear,Autumn/Winter,Cotton,2195.0,14.0,4.0,1580.0,75.0,17.2,2195.0
+Streetwear,Spring/Summer,Denim,1402.0,24.0,3.6,632.0,22.0,22.6,1402.0
+Y2K Revival,Spring/Summer,Denim,2610.0,13.0,4.0,258.0,36.0,17.5,2610.0
+Formal Wear,Autumn/Winter,Polyester,2751.0,20.0,3.7,977.0,26.0,12.4,2751.0
+Sustainable Wear,Autumn/Winter,Cotton,1804.0,30.0,3.7,244.0,42.0,12.3,1804.0
+Ethnic Wear,Autumn/Winter,Polyester,3157.0,23.0,3.2,460.0,58.0,18.6,3157.0
+Streetwear,Festive,Silk,2132.0,8.0,3.8,143.0,7.0,14.1,2132.0
+Ethnic Wear,Spring/Summer,Polyester,2333.0,9.0,4.0,177.0,15.0,15.9,2333.0
+Sustainable Wear,Autumn/Winter,Cotton,2337.0,8.0,3.9,420.0,22.0,17.7,2337.0
+Sustainable Wear,Spring/Summer,Polyester,3998.0,27.0,5.0,542.0,33.0,18.3,3998.0
+Y2K Revival,Spring/Summer,Cotton,1131.0,43.0,4.4,103.0,69.0,9.5,1131.0
+Y2K Revival,Spring/Summer,Polyester,921.0,36.0,4.7,601.0,55.0,15.2,921.0
+Formal Wear,Festive,Cotton,5285.0,3.0,4.4,209.0,15.0,11.3,5285.0
+Y2K Revival,Autumn/Winter,Silk,1782.0,36.0,4.9,1123.0,50.0,13.1,1782.0
+Formal Wear,Spring/Summer,Linen,3058.0,31.0,3.6,304.0,14.0,20.9,3058.0
+Formal Wear,Autumn/Winter,Cotton,2184.0,7.0,2.7,164.0,6.0,22.5,2184.0
+Formal Wear,Festive,Linen,2928.0,19.0,3.8,429.0,10.0,22.4,2928.0
+Streetwear,Festive,Polyester,2158.0,33.0,4.3,194.0,64.0,17.0,2158.0
+Streetwear,Autumn/Winter,Recycled Fibre,3308.0,28.0,4.1,1113.0,28.0,14.6,3308.0
+Sustainable Wear,Spring/Summer,Denim,1809.0,9.0,4.3,404.0,16.0,12.4,1809.0
+Ethnic Wear,Autumn/Winter,Cotton,3107.0,28.0,4.7,357.0,48.0,5.0,3107.0
+Sustainable Wear,Festive,Denim,3293.0,1.0,4.4,648.0,12.0,19.7,3293.0
+Sustainable Wear,Festive,Recycled Fibre,1130.0,20.0,4.6,181.0,22.0,11.9,1130.0
+Ethnic Wear,Festive,Silk,4595.0,33.0,3.5,144.0,54.0,19.4,4595.0
+Streetwear,Autumn/Winter,Polyester,1454.0,22.0,3.5,559.0,25.0,19.7,1454.0
+Sustainable Wear,Spring/Summer,Polyester,2920.0,17.0,5.0,167.0,31.0,6.1,2920.0
+Formal Wear,Autumn/Winter,Cotton,16502.0,31.0,4.1,167.0,1.0,10.7,5955.125
+Formal Wear,Spring/Summer,Denim,5554.0,32.0,3.7,788.0,42.0,24.1,5554.0
+Athleisure,Spring/Summer,Linen,2183.0,35.0,3.7,614.0,53.0,18.0,2183.0
+Athleisure,Autumn/Winter,Polyester,783.0,31.0,3.7,148.0,34.0,13.4,783.0
+Sustainable Wear,Autumn/Winter,Linen,1976.0,33.0,3.8,246.0,39.0,15.5,1976.0
+Formal Wear,Festive,Cotton,3988.0,29.0,3.4,196.0,25.0,22.4,3988.0
+Formal Wear,Autumn/Winter,Cotton,3549.0,25.0,3.2,1671.0,51.0,21.9,3549.0
+Athleisure,Festive,Silk,2128.0,23.0,3.9,833.0,27.0,8.1,2128.0
+Formal Wear,Autumn/Winter,Polyester,5009.0,20.0,3.7,288.0,43.0,23.9,5009.0
+Athleisure,Autumn/Winter,Recycled Fibre,2227.0,10.0,4.0,640.0,23.0,17.8,2227.0
+Streetwear,Spring/Summer,Silk,2041.0,12.0,4.1,136.0,25.0,13.6,2041.0
+Y2K Revival,Autumn/Winter,Linen,786.0,19.0,4.1,236.0,24.0,8.7,786.0
+Athleisure,Spring/Summer,Recycled Fibre,1535.0,24.0,3.6,439.0,22.0,21.5,1535.0
+Athleisure,Spring/Summer,Cotton,2082.0,36.0,3.9,579.0,40.0,18.4,2082.0
+Streetwear,Spring/Summer,Silk,1502.0,22.0,4.2,373.0,28.0,7.3,1502.0
+Ethnic Wear,Festive,Recycled Fibre,3991.0,32.0,4.4,492.0,37.0,13.4,3991.0
+Y2K Revival,Autumn/Winter,Cotton,2061.0,33.0,4.0,430.0,35.0,31.3,2061.0
+Y2K Revival,Festive,Cotton,1568.0,20.0,4.5,354.0,48.0,13.8,1568.0
+Athleisure,Festive,Cotton,616.0,28.0,4.0,318.0,37.0,11.7,616.0
+Athleisure,Festive,Cotton,1151.0,20.0,4.4,287.0,29.0,9.0,1151.0
+Formal Wear,Spring/Summer,Linen,7353.0,35.0,3.8,486.0,22.0,25.1,5955.125
+Sustainable Wear,Festive,Cotton,2147.0,28.0,3.3,560.0,50.0,21.4,2147.0
+Y2K Revival,Festive,Silk,749.0,10.0,4.1,473.0,35.0,21.3,749.0
+Ethnic Wear,Festive,Cotton,4931.0,24.0,4.4,157.0,26.0,15.4,4931.0
+Athleisure,Spring/Summer,Cotton,1808.0,38.0,4.3,181.0,34.0,21.4,1808.0
+Formal Wear,Spring/Summer,Polyester,5594.0,20.0,4.2,555.0,10.0,10.3,5594.0
+Athleisure,Festive,Cotton,1983.0,26.0,3.8,1309.0,34.0,16.6,1983.0
+Streetwear,Spring/Summer,Denim,2583.0,27.0,3.6,456.0,52.0,17.8,2583.0
+Ethnic Wear,Spring/Summer,Polyester,3634.0,12.0,4.3,290.0,29.0,20.8,3634.0
+Streetwear,Autumn/Winter,Cotton,13145.0,27.0,4.2,483.0,1.0,16.4,5955.125
+Ethnic Wear,Spring/Summer,Cotton,7101.0,8.0,3.7,162.0,1.0,12.0,5955.125
+Ethnic Wear,Spring/Summer,Polyester,4495.0,16.0,4.6,1150.0,25.0,13.6,4495.0
+Y2K Revival,Festive,Linen,863.0,33.0,3.6,468.0,38.0,8.3,863.0
+Y2K Revival,Festive,Recycled Fibre,1754.0,26.0,3.7,236.0,42.0,4.4,1754.0
+Streetwear,Festive,Polyester,3280.0,19.0,4.8,353.0,31.0,17.1,3280.0
+Athleisure,Spring/Summer,Silk,2742.0,26.0,4.0,265.0,64.0,12.4,2742.0
+Formal Wear,Spring/Summer,Polyester,3273.0,21.0,3.8,1152.0,53.0,14.2,3273.0
+Y2K Revival,Autumn/Winter,Denim,2255.0,22.0,4.1,343.0,51.0,19.0,2255.0
+Sustainable Wear,Autumn/Winter,Linen,3597.0,29.0,4.3,457.0,48.0,21.7,3597.0
+Streetwear,Spring/Summer,Cotton,5413.0,15.0,2.6,638.0,3.0,20.9,5413.0
+Streetwear,Autumn/Winter,Recycled Fibre,1692.0,22.0,3.5,223.0,39.0,26.0,1692.0
+Athleisure,Festive,Denim,1507.0,19.0,4.0,471.0,33.0,17.5,1507.0
+Ethnic Wear,Autumn/Winter,Polyester,2875.0,6.0,3.8,502.0,38.0,16.3,2875.0
+Streetwear,Spring/Summer,Denim,1853.0,13.0,4.1,116.0,31.0,15.6,1853.0
+Formal Wear,Spring/Summer,Denim,2783.0,38.0,4.6,494.0,57.0,8.0,2783.0
+Formal Wear,Spring/Summer,Cotton,1445.0,26.0,3.8,389.0,42.0,20.6,1445.0
+Formal Wear,Spring/Summer,Recycled Fibre,3264.0,9.0,4.0,448.0,37.0,3.5,3264.0
+Streetwear,Autumn/Winter,Cotton,2504.0,7.0,4.2,415.0,6.0,10.9,2504.0
+Sustainable Wear,Autumn/Winter,Linen,2188.0,21.0,4.0,496.0,58.0,15.2,2188.0
+Formal Wear,Autumn/Winter,Polyester,7481.0,38.0,3.9,1176.0,35.0,12.2,5955.125
+Formal Wear,Festive,Denim,3818.0,20.0,3.9,157.0,7.0,13.0,3818.0
+Streetwear,Spring/Summer,Cotton,3457.0,35.0,5.0,307.0,40.0,22.4,3457.0
+Y2K Revival,Spring/Summer,Linen,1644.0,26.0,2.9,688.0,16.0,23.6,1644.0
+Athleisure,Spring/Summer,Cotton,2404.0,27.0,3.8,593.0,48.0,12.4,2404.0
+Y2K Revival,Spring/Summer,Polyester,1654.0,9.0,4.0,583.0,16.0,12.1,1654.0
+Athleisure,Autumn/Winter,Denim,2906.0,31.0,3.6,3651.0,79.0,10.2,2906.0
+Athleisure,Festive,Recycled Fibre,1836.0,19.0,4.4,659.0,54.0,17.5,1836.0
+Ethnic Wear,Festive,Cotton,3807.0,31.0,4.4,997.0,40.0,13.3,3807.0
+Athleisure,Autumn/Winter,Denim,2046.0,14.0,4.0,316.0,25.0,4.9,2046.0
+Athleisure,Autumn/Winter,Denim,1627.0,24.0,3.9,182.0,21.0,16.0,1627.0
+Athleisure,Spring/Summer,Linen,2074.0,26.0,3.9,314.0,33.0,17.7,2074.0
+Streetwear,Autumn/Winter,Cotton,4809.0,20.0,3.9,713.0,57.0,20.1,4809.0
+Formal Wear,Spring/Summer,Linen,3457.0,26.0,4.0,559.0,46.0,14.9,3457.0
+Athleisure,Festive,Cotton,2085.0,19.0,3.9,557.0,31.0,13.3,2085.0
+Ethnic Wear,Autumn/Winter,Polyester,4970.0,16.0,4.1,340.0,12.0,24.5,4970.0
+Formal Wear,Spring/Summer,Silk,5664.0,38.0,4.0,299.0,38.0,14.9,5664.0
+Athleisure,Spring/Summer,Denim,1807.0,32.0,3.4,349.0,43.0,20.7,1807.0
+Athleisure,Spring/Summer,Polyester,782.0,14.0,3.5,720.0,29.0,13.3,782.0
+Formal Wear,Festive,Denim,4553.0,28.0,3.1,790.0,36.0,21.1,4553.0
+Formal Wear,Spring/Summer,Denim,1747.0,15.0,4.4,180.0,20.0,6.5,1747.0
+Ethnic Wear,Spring/Summer,Cotton,5353.0,10.0,4.1,742.0,6.0,11.9,5353.0
+Formal Wear,Spring/Summer,Cotton,4032.0,32.0,4.3,240.0,42.0,8.8,4032.0
+Athleisure,Festive,Recycled Fibre,2554.0,5.0,3.3,587.0,2.0,13.0,2554.0
+Streetwear,Autumn/Winter,Recycled Fibre,1604.0,31.0,4.9,346.0,62.0,19.6,1604.0
+Formal Wear,Autumn/Winter,Polyester,2207.0,19.0,4.0,1412.0,43.0,12.6,2207.0
+Sustainable Wear,Spring/Summer,Silk,2848.0,20.0,4.3,289.0,11.0,17.8,2848.0
+Formal Wear,Spring/Summer,Cotton,3756.0,26.0,4.4,465.0,38.0,21.9,3756.0
+Streetwear,Festive,Recycled Fibre,1852.0,28.0,3.5,655.0,21.0,16.5,1852.0
+Formal Wear,Spring/Summer,Recycled Fibre,3914.0,14.0,3.7,201.0,25.0,20.4,3914.0
+Streetwear,Spring/Summer,Cotton,5795.0,29.0,4.1,381.0,25.0,17.9,5795.0
+Streetwear,Autumn/Winter,Cotton,2946.0,23.0,5.0,326.0,63.0,13.2,2946.0
+Sustainable Wear,Spring/Summer,Cotton,3754.0,9.0,4.4,267.0,32.0,17.2,3754.0
+Sustainable Wear,Spring/Summer,Denim,3493.0,20.0,5.0,284.0,23.0,21.7,3493.0
+Formal Wear,Festive,Denim,6378.0,36.0,4.6,982.0,19.0,11.1,5955.125
+Athleisure,Autumn/Winter,Recycled Fibre,1684.0,39.0,4.2,250.0,44.0,10.7,1684.0
+Athleisure,Spring/Summer,Cotton,877.0,29.0,3.5,635.0,32.0,11.6,877.0
+Athleisure,Spring/Summer,Linen,1685.0,10.0,4.5,519.0,54.0,18.2,1685.0
+Athleisure,Autumn/Winter,Cotton,2391.0,27.0,3.3,132.0,31.0,22.7,2391.0
+Formal Wear,Spring/Summer,Polyester,2706.0,31.0,4.8,611.0,62.0,10.9,2706.0
+Streetwear,Spring/Summer,Cotton,2068.0,29.0,3.9,130.0,37.0,4.5,2068.0
+Y2K Revival,Autumn/Winter,Denim,1177.0,30.0,2.7,667.0,38.0,15.4,1177.0
+Athleisure,Autumn/Winter,Cotton,3045.0,26.0,3.8,269.0,32.0,18.5,3045.0
+Ethnic Wear,Festive,Silk,4160.0,21.0,4.3,406.0,43.0,14.0,4160.0
+Streetwear,Spring/Summer,Denim,2763.0,16.0,3.9,143.0,28.0,16.0,2763.0
+Streetwear,Spring/Summer,Silk,2735.0,3.0,4.4,445.0,8.0,10.5,2735.0
+Y2K Revival,Autumn/Winter,Cotton,1481.0,25.0,3.6,847.0,63.0,21.3,1481.0
+Y2K Revival,Autumn/Winter,Denim,1607.0,24.0,3.3,212.0,29.0,18.7,1607.0
+Y2K Revival,Spring/Summer,Silk,991.0,28.0,4.0,248.0,39.0,18.3,991.0
+Athleisure,Autumn/Winter,Polyester,837.0,9.0,4.0,580.0,1.0,15.2,837.0
+Sustainable Wear,Spring/Summer,Silk,2740.0,28.0,4.0,592.0,49.0,18.0,2740.0
+Ethnic Wear,Festive,Denim,3584.0,43.0,4.6,58.0,51.0,16.9,3584.0
+Sustainable Wear,Festive,Polyester,3970.0,23.0,3.8,2023.0,49.0,11.0,3970.0
+Formal Wear,Autumn/Winter,Linen,6586.0,21.0,4.2,616.0,17.0,16.4,5955.125
+Ethnic Wear,Festive,Polyester,5544.0,25.0,4.0,705.0,22.0,19.2,5544.0
+Ethnic Wear,Festive,Cotton,2257.0,42.0,4.0,360.0,42.0,23.9,2257.0
+Formal Wear,Spring/Summer,Recycled Fibre,3359.0,12.0,3.3,91.0,18.0,18.4,3359.0
+Formal Wear,Spring/Summer,Cotton,4496.0,24.0,4.0,692.0,40.0,10.4,4496.0
+Athleisure,Autumn/Winter,Polyester,16539.0,14.0,5.0,257.0,1.0,8.1,5955.125
+Athleisure,Spring/Summer,Polyester,3022.0,17.0,4.0,623.0,44.0,11.9,3022.0
+Ethnic Wear,Spring/Summer,Cotton,4735.0,22.0,3.1,339.0,17.0,18.3,4735.0
+Streetwear,Spring/Summer,Polyester,1921.0,35.0,2.4,488.0,31.0,19.1,1921.0
+Sustainable Wear,Festive,Linen,1909.0,40.0,4.6,217.0,58.0,8.9,1909.0
+Streetwear,Autumn/Winter,Polyester,2900.0,26.0,4.0,806.0,25.0,9.7,2900.0
+Formal Wear,Autumn/Winter,Cotton,2585.0,18.0,4.6,156.0,35.0,2.9,2585.0
+Formal Wear,Spring/Summer,Denim,3496.0,47.0,3.6,2432.0,56.0,1.8,3496.0
+Ethnic Wear,Spring/Summer,Denim,3074.0,18.0,4.2,2417.0,42.0,13.7,3074.0
+Streetwear,Festive,Polyester,13416.0,16.0,4.4,1489.0,1.0,25.4,5955.125
+Sustainable Wear,Spring/Summer,Polyester,2296.0,4.0,4.0,1119.0,26.0,23.2,2296.0
+Ethnic Wear,Spring/Summer,Cotton,1363.0,36.0,3.8,377.0,69.0,11.4,1363.0
+Sustainable Wear,Spring/Summer,Cotton,3102.0,32.0,4.2,1026.0,49.0,15.8,3102.0
+Ethnic Wear,Autumn/Winter,Polyester,2506.0,46.0,4.3,374.0,66.0,8.2,2506.0
+Ethnic Wear,Spring/Summer,Denim,3248.0,8.0,4.0,116.0,44.0,7.8,3248.0
+Athleisure,Spring/Summer,Recycled Fibre,1746.0,37.0,4.5,1343.0,71.0,8.6,1746.0
+Athleisure,Spring/Summer,Polyester,1636.0,23.0,3.8,995.0,35.0,14.5,1636.0
+Sustainable Wear,Spring/Summer,Denim,3429.0,30.0,4.2,393.0,26.0,15.8,3429.0
+Y2K Revival,Spring/Summer,Polyester,877.0,6.0,5.0,151.0,32.0,13.1,877.0
+Ethnic Wear,Autumn/Winter,Cotton,2670.0,37.0,3.7,252.0,36.0,19.9,2670.0
+Athleisure,Spring/Summer,Polyester,2287.0,30.0,3.7,94.0,30.0,14.6,2287.0
+Y2K Revival,Spring/Summer,Cotton,1210.0,22.0,4.0,859.0,57.0,15.3,1210.0
+Streetwear,Autumn/Winter,Denim,1253.0,28.0,4.0,112.0,54.0,9.9,1253.0
+Streetwear,Autumn/Winter,Polyester,2780.0,14.0,3.8,507.0,6.0,8.5,2780.0
+Y2K Revival,Spring/Summer,Silk,2222.0,16.0,4.0,205.0,18.0,7.3,2222.0
+Athleisure,Spring/Summer,Polyester,1772.0,17.0,4.0,129.0,24.0,18.1,1772.0
+Sustainable Wear,Spring/Summer,Denim,1309.0,3.0,4.3,488.0,33.0,11.7,1309.0
+Ethnic Wear,Festive,Silk,4097.0,31.0,2.8,309.0,39.0,9.2,4097.0
+Athleisure,Spring/Summer,Polyester,1007.0,34.0,4.9,789.0,96.0,13.1,1007.0
+Ethnic Wear,Spring/Summer,Cotton,3565.0,15.0,3.9,146.0,15.0,8.8,3565.0
+Sustainable Wear,Autumn/Winter,Denim,1906.0,25.0,4.5,220.0,37.0,22.3,1906.0
+Athleisure,Spring/Summer,Linen,1199.0,19.0,3.3,60.0,34.0,13.8,1199.0
+Sustainable Wear,Spring/Summer,Cotton,2227.0,25.0,4.0,70.0,26.0,18.7,2227.0
+Streetwear,Spring/Summer,Denim,2063.0,16.0,3.7,1700.0,42.0,21.0,2063.0
+Athleisure,Autumn/Winter,Cotton,1437.0,13.0,4.7,2136.0,52.0,8.1,1437.0
+Athleisure,Autumn/Winter,Polyester,2212.0,33.0,3.7,434.0,12.0,16.8,2212.0
+Formal Wear,Autumn/Winter,Linen,3251.0,21.0,4.4,209.0,33.0,16.8,3251.0
+Sustainable Wear,Autumn/Winter,Polyester,3664.0,42.0,3.9,318.0,44.0,16.9,3664.0
+Streetwear,Spring/Summer,Polyester,2428.0,22.0,3.8,811.0,53.0,17.4,2428.0
+Athleisure,Festive,Cotton,1410.0,13.0,3.9,267.0,29.0,8.3,1410.0
+Streetwear,Autumn/Winter,Cotton,1625.0,34.0,4.6,488.0,40.0,17.0,1625.0
+Sustainable Wear,Festive,Cotton,1461.0,28.0,3.3,399.0,35.0,14.7,1461.0
+Ethnic Wear,Autumn/Winter,Cotton,3543.0,29.0,3.3,256.0,4.0,18.9,3543.0
+Sustainable Wear,Spring/Summer,Denim,2297.0,34.0,3.2,265.0,24.0,22.3,2297.0
+Y2K Revival,Spring/Summer,Linen,654.0,15.0,4.0,510.0,41.0,19.3,654.0
+Y2K Revival,Autumn/Winter,Polyester,1244.0,21.0,3.6,185.0,30.0,17.8,1244.0
+Athleisure,Spring/Summer,Polyester,1313.0,20.0,3.2,579.0,44.0,20.2,1313.0
+Athleisure,Autumn/Winter,Recycled Fibre,3124.0,9.0,3.6,277.0,1.0,18.9,3124.0
+Athleisure,Spring/Summer,Cotton,3763.0,19.0,3.0,447.0,17.0,24.9,3763.0
+Ethnic Wear,Spring/Summer,Cotton,1932.0,35.0,3.5,1221.0,49.0,16.8,1932.0
+Athleisure,Festive,Silk,2655.0,24.0,4.6,353.0,51.0,14.5,2655.0
+Formal Wear,Autumn/Winter,Polyester,6110.0,9.0,4.2,842.0,23.0,18.6,5955.125
+Formal Wear,Autumn/Winter,Recycled Fibre,2928.0,6.0,4.1,96.0,23.0,11.6,2928.0
+Formal Wear,Spring/Summer,Denim,3046.0,39.0,3.5,277.0,61.0,10.5,3046.0
+Ethnic Wear,Autumn/Winter,Denim,3970.0,21.0,3.2,412.0,17.0,19.5,3970.0
+Y2K Revival,Festive,Cotton,664.0,16.0,3.4,1879.0,66.0,15.3,664.0
+Athleisure,Autumn/Winter,Cotton,938.0,19.0,4.0,84.0,22.0,8.9,938.0
+Streetwear,Autumn/Winter,Cotton,1994.0,7.0,4.4,374.0,13.0,15.9,1994.0
+Sustainable Wear,Autumn/Winter,Recycled Fibre,4473.0,36.0,4.7,1294.0,65.0,21.2,4473.0
+Y2K Revival,Spring/Summer,Denim,1288.0,18.0,4.3,215.0,18.0,6.0,1288.0
+Ethnic Wear,Autumn/Winter,Denim,3315.0,36.0,3.6,340.0,47.0,21.9,3315.0
+Formal Wear,Festive,Cotton,5651.0,23.0,4.0,526.0,26.0,2.5,5651.0
+Athleisure,Autumn/Winter,Denim,3763.0,36.0,3.8,468.0,54.0,14.3,3763.0
+Y2K Revival,Spring/Summer,Linen,1226.0,25.0,3.9,1412.0,53.0,24.7,1226.0
+Streetwear,Autumn/Winter,Denim,2187.0,31.0,5.0,578.0,55.0,11.4,2187.0
+Streetwear,Autumn/Winter,Linen,4163.0,29.0,3.1,1167.0,42.0,18.1,4163.0
+Y2K Revival,Festive,Cotton,880.0,28.0,3.9,302.0,37.0,19.5,880.0
+Streetwear,Autumn/Winter,Cotton,3152.0,25.0,4.6,223.0,29.0,5.2,3152.0
+Streetwear,Spring/Summer,Denim,1540.0,20.0,3.3,337.0,36.0,17.1,1540.0
+Ethnic Wear,Spring/Summer,Polyester,3317.0,41.0,3.7,160.0,43.0,17.1,3317.0
+Athleisure,Autumn/Winter,Polyester,1653.0,13.0,4.0,594.0,25.0,24.7,1653.0
+Sustainable Wear,Spring/Summer,Polyester,1859.0,22.0,4.1,296.0,36.0,8.7,1859.0
+Athleisure,Autumn/Winter,Polyester,1276.0,22.0,3.2,236.0,50.0,15.2,1276.0
+Athleisure,Festive,Denim,1983.0,26.0,4.3,601.0,40.0,9.9,1983.0
+Formal Wear,Autumn/Winter,Cotton,17293.0,18.0,4.3,162.0,1.0,9.0,5955.125
+Ethnic Wear,Spring/Summer,Cotton,3058.0,25.0,4.3,747.0,21.0,20.1,3058.0
+Streetwear,Autumn/Winter,Recycled Fibre,2255.0,20.0,3.6,275.0,29.0,16.1,2255.0
+Streetwear,Autumn/Winter,Linen,2687.0,6.0,4.0,1020.0,35.0,11.5,2687.0
+Streetwear,Spring/Summer,Cotton,1566.0,22.0,3.6,295.0,44.0,13.5,1566.0
+Ethnic Wear,Autumn/Winter,Cotton,4146.0,11.0,3.8,669.0,21.0,12.2,4146.0
+Y2K Revival,Autumn/Winter,Cotton,1998.0,5.0,5.0,466.0,42.0,9.4,1998.0
+Y2K Revival,Festive,Cotton,3731.0,23.0,4.0,732.0,43.0,8.8,3731.0
+Streetwear,Spring/Summer,Cotton,1929.0,27.0,3.4,441.0,50.0,15.6,1929.0
+Sustainable Wear,Spring/Summer,Cotton,2215.0,27.0,4.3,107.0,51.0,12.8,2215.0
+Streetwear,Autumn/Winter,Recycled Fibre,2879.0,28.0,3.3,904.0,58.0,13.4,2879.0
+Ethnic Wear,Spring/Summer,Denim,4262.0,3.0,3.4,376.0,3.0,16.4,4262.0
+Streetwear,Autumn/Winter,Denim,1824.0,8.0,3.5,759.0,9.0,16.8,1824.0
+Ethnic Wear,Autumn/Winter,Polyester,2779.0,42.0,3.8,701.0,61.0,13.8,2779.0
+Ethnic Wear,Spring/Summer,Polyester,3867.0,12.0,4.5,217.0,31.0,12.6,3867.0
+Sustainable Wear,Autumn/Winter,Denim,1946.0,28.0,4.5,194.0,63.0,24.9,1946.0
+Streetwear,Festive,Recycled Fibre,1906.0,15.0,4.3,681.0,52.0,24.6,1906.0
+Streetwear,Autumn/Winter,Linen,2270.0,23.0,3.5,317.0,55.0,11.1,2270.0
+Athleisure,Autumn/Winter,Cotton,2551.0,16.0,3.7,853.0,39.0,11.0,2551.0
+Athleisure,Autumn/Winter,Polyester,1457.0,28.0,4.1,350.0,47.0,9.9,1457.0
+Formal Wear,Spring/Summer,Polyester,1994.0,23.0,3.7,915.0,25.0,21.2,1994.0
+Streetwear,Spring/Summer,Linen,1125.0,18.0,3.9,566.0,41.0,13.2,1125.0
+Sustainable Wear,Autumn/Winter,Cotton,1673.0,11.0,4.4,508.0,26.0,14.7,1673.0
+Ethnic Wear,Spring/Summer,Denim,2021.0,25.0,3.8,299.0,39.0,25.7,2021.0
+Formal Wear,Spring/Summer,Linen,3600.0,10.0,4.1,486.0,22.0,14.2,3600.0
+Sustainable Wear,Spring/Summer,Cotton,1715.0,26.0,5.0,1048.0,63.0,16.3,1715.0
+Formal Wear,Festive,Cotton,2971.0,48.0,3.9,386.0,54.0,19.3,2971.0
+Y2K Revival,Spring/Summer,Recycled Fibre,1144.0,36.0,4.6,617.0,71.0,11.4,1144.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,2743.0,29.0,4.3,419.0,10.0,20.0,2743.0
+Ethnic Wear,Spring/Summer,Cotton,5084.0,21.0,3.3,446.0,21.0,12.6,5084.0
+Athleisure,Autumn/Winter,Linen,2269.0,3.0,3.4,1602.0,42.0,22.3,2269.0
+Y2K Revival,Spring/Summer,Silk,1508.0,9.0,3.6,1055.0,54.0,12.5,1508.0
+Streetwear,Spring/Summer,Denim,1872.0,35.0,3.6,430.0,55.0,14.4,1872.0
+Y2K Revival,Autumn/Winter,Cotton,1289.0,14.0,4.0,479.0,53.0,9.3,1289.0
+Ethnic Wear,Autumn/Winter,Denim,3589.0,15.0,4.3,230.0,26.0,9.4,3589.0
+Athleisure,Spring/Summer,Polyester,2208.0,20.0,4.6,351.0,38.0,11.4,2208.0
+Athleisure,Autumn/Winter,Cotton,1310.0,11.0,4.2,517.0,39.0,1.9,1310.0
+Ethnic Wear,Autumn/Winter,Cotton,3241.0,10.0,3.8,797.0,24.0,13.8,3241.0
+Ethnic Wear,Spring/Summer,Cotton,1572.0,21.0,3.0,735.0,24.0,15.0,1572.0
+Athleisure,Autumn/Winter,Cotton,1938.0,13.0,4.0,166.0,20.0,18.6,1938.0
+Formal Wear,Spring/Summer,Polyester,4962.0,15.0,4.0,881.0,11.0,16.9,4962.0
+Formal Wear,Autumn/Winter,Recycled Fibre,3445.0,14.0,4.1,376.0,30.0,10.9,3445.0
+Streetwear,Spring/Summer,Cotton,4155.0,27.0,5.0,183.0,38.0,10.6,4155.0
+Streetwear,Autumn/Winter,Denim,1616.0,20.0,4.6,1175.0,46.0,12.3,1616.0
+Athleisure,Spring/Summer,Cotton,1942.0,20.0,4.4,1301.0,42.0,21.4,1942.0
+Formal Wear,Autumn/Winter,Linen,3753.0,28.0,3.5,498.0,38.0,12.5,3753.0
+Sustainable Wear,Autumn/Winter,Denim,2510.0,21.0,3.9,711.0,46.0,11.7,2510.0
+Y2K Revival,Festive,Denim,1441.0,19.0,4.0,745.0,27.0,9.3,1441.0
+Streetwear,Autumn/Winter,Silk,2284.0,27.0,3.6,1232.0,31.0,8.9,2284.0
+Ethnic Wear,Festive,Recycled Fibre,4306.0,29.0,4.3,722.0,51.0,16.2,4306.0
+Sustainable Wear,Spring/Summer,Cotton,4211.0,21.0,4.4,139.0,10.0,15.1,4211.0
+Athleisure,Spring/Summer,Cotton,1799.0,23.0,3.5,2014.0,60.0,22.8,1799.0
+Formal Wear,Spring/Summer,Polyester,5055.0,14.0,4.6,946.0,48.0,18.4,5055.0
+Streetwear,Autumn/Winter,Cotton,1721.0,13.0,3.9,268.0,48.0,26.4,1721.0
+Ethnic Wear,Autumn/Winter,Polyester,4184.0,30.0,3.1,177.0,34.0,17.4,4184.0
+Y2K Revival,Festive,Cotton,1149.0,26.0,4.0,604.0,55.0,14.0,1149.0
+Y2K Revival,Autumn/Winter,Denim,2197.0,27.0,4.1,323.0,67.0,8.6,2197.0
+Formal Wear,Autumn/Winter,Denim,8238.0,25.0,4.5,525.0,1.0,17.5,5955.125
+Athleisure,Spring/Summer,Recycled Fibre,1725.0,22.0,3.8,731.0,34.0,16.2,1725.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,1486.0,29.0,4.4,256.0,57.0,17.7,1486.0
+Y2K Revival,Autumn/Winter,Cotton,1238.0,31.0,4.1,165.0,42.0,9.6,1238.0
+Streetwear,Spring/Summer,Cotton,3386.0,31.0,3.3,549.0,50.0,19.1,3386.0
+Athleisure,Spring/Summer,Silk,2184.0,21.0,3.3,263.0,27.0,17.8,2184.0
+Formal Wear,Festive,Silk,4146.0,36.0,4.6,453.0,48.0,15.0,4146.0
+Streetwear,Festive,Polyester,3131.0,24.0,4.6,138.0,32.0,10.3,3131.0
+Ethnic Wear,Autumn/Winter,Polyester,3791.0,28.0,4.2,330.0,29.0,20.8,3791.0
+Y2K Revival,Spring/Summer,Polyester,2297.0,25.0,4.7,715.0,41.0,23.8,2297.0
+Ethnic Wear,Festive,Cotton,4415.0,24.0,4.5,655.0,39.0,8.4,4415.0
+Streetwear,Spring/Summer,Polyester,3747.0,15.0,4.3,215.0,14.0,17.6,3747.0
+Streetwear,Autumn/Winter,Polyester,2494.0,29.0,3.5,158.0,45.0,2.3,2494.0
+Streetwear,Spring/Summer,Linen,3020.0,50.0,4.9,409.0,73.0,17.6,3020.0
+Athleisure,Festive,Denim,1617.0,18.0,4.3,632.0,53.0,4.8,1617.0
+Formal Wear,Festive,Linen,3079.0,23.0,3.8,558.0,20.0,13.0,3079.0
+Formal Wear,Autumn/Winter,Recycled Fibre,6906.0,18.0,3.7,268.0,1.0,9.1,5955.125
+Sustainable Wear,Spring/Summer,Recycled Fibre,2804.0,17.0,4.3,512.0,33.0,13.0,2804.0
+Sustainable Wear,Autumn/Winter,Cotton,3446.0,37.0,3.4,1342.0,86.0,21.5,3446.0
+Y2K Revival,Spring/Summer,Silk,1566.0,15.0,4.3,475.0,51.0,4.7,1566.0
+Athleisure,Festive,Polyester,1466.0,17.0,3.5,109.0,20.0,14.3,1466.0
+Ethnic Wear,Spring/Summer,Linen,3212.0,6.0,4.0,475.0,25.0,11.2,3212.0
+Streetwear,Spring/Summer,Cotton,3637.0,14.0,3.7,2070.0,49.0,23.4,3637.0
+Ethnic Wear,Autumn/Winter,Denim,3886.0,5.0,3.9,144.0,1.0,16.7,3886.0
+Athleisure,Autumn/Winter,Denim,989.0,28.0,3.6,413.0,59.0,10.5,989.0
+Ethnic Wear,Festive,Cotton,2968.0,50.0,4.0,337.0,54.0,14.4,2968.0
+Streetwear,Spring/Summer,Cotton,4105.0,18.0,4.9,436.0,31.0,20.4,4105.0
+Ethnic Wear,Festive,Cotton,2969.0,5.0,4.7,471.0,24.0,16.1,2969.0
+Athleisure,Spring/Summer,Recycled Fibre,959.0,31.0,4.2,1004.0,71.0,10.5,959.0
+Streetwear,Spring/Summer,Linen,4267.0,15.0,3.9,432.0,13.0,13.4,4267.0
+Ethnic Wear,Autumn/Winter,Cotton,4063.0,35.0,4.4,1121.0,31.0,13.6,4063.0
+Sustainable Wear,Spring/Summer,Recycled Fibre,2537.0,19.0,4.8,367.0,42.0,10.3,2537.0
+Athleisure,Autumn/Winter,Polyester,1581.0,16.0,3.6,305.0,4.0,7.2,1581.0
+Athleisure,Spring/Summer,Polyester,2629.0,20.0,4.0,236.0,27.0,11.6,2629.0
+Streetwear,Spring/Summer,Polyester,1820.0,30.0,3.1,94.0,48.0,24.7,1820.0
+Athleisure,Autumn/Winter,Linen,2690.0,20.0,4.6,503.0,45.0,11.6,2690.0
+Y2K Revival,Spring/Summer,Polyester,1813.0,17.0,5.0,2086.0,74.0,11.8,1813.0
+Streetwear,Autumn/Winter,Cotton,2397.0,20.0,4.0,582.0,43.0,15.7,2397.0
+Formal Wear,Autumn/Winter,Polyester,3999.0,9.0,2.9,699.0,41.0,28.3,3999.0
+Y2K Revival,Spring/Summer,Denim,1411.0,26.0,4.3,290.0,37.0,14.6,1411.0
+Athleisure,Autumn/Winter,Polyester,2595.0,4.0,3.5,332.0,18.0,20.9,2595.0
+Ethnic Wear,Spring/Summer,Denim,2364.0,18.0,3.7,887.0,30.0,12.7,2364.0
+Y2K Revival,Spring/Summer,Linen,850.0,30.0,4.3,2012.0,82.0,13.5,850.0
+Ethnic Wear,Spring/Summer,Recycled Fibre,3968.0,25.0,4.1,1327.0,43.0,15.1,3968.0
+Streetwear,Festive,Cotton,2744.0,28.0,3.8,768.0,62.0,12.0,2744.0
+Streetwear,Autumn/Winter,Recycled Fibre,2603.0,21.0,3.7,415.0,25.0,14.8,2603.0
+Athleisure,Autumn/Winter,Cotton,2076.0,34.0,4.1,477.0,66.0,19.9,2076.0
+Ethnic Wear,Festive,Cotton,2860.0,31.0,3.8,221.0,45.0,12.0,2860.0
+Y2K Revival,Spring/Summer,Cotton,1976.0,26.0,3.4,127.0,32.0,16.8,1976.0
+Y2K Revival,Festive,Cotton,1476.0,31.0,3.8,164.0,49.0,19.6,1476.0
+Athleisure,Autumn/Winter,Denim,1518.0,30.0,4.2,420.0,51.0,10.9,1518.0
+Formal Wear,Festive,Denim,3407.0,18.0,3.9,319.0,30.0,20.6,3407.0
+Sustainable Wear,Festive,Recycled Fibre,5274.0,9.0,3.5,125.0,2.0,16.1,5274.0
+Y2K Revival,Festive,Cotton,817.0,26.0,4.5,392.0,40.0,13.2,817.0
+Athleisure,Spring/Summer,Denim,2144.0,27.0,2.6,313.0,24.0,8.8,2144.0
+Y2K Revival,Autumn/Winter,Recycled Fibre,833.0,33.0,3.8,158.0,26.0,14.3,833.0
+Formal Wear,Festive,Polyester,3659.0,13.0,3.7,300.0,28.0,17.3,3659.0
+Athleisure,Autumn/Winter,Polyester,1547.0,13.0,4.1,312.0,15.0,23.1,1547.0
+Athleisure,Spring/Summer,Silk,868.0,27.0,4.3,246.0,44.0,17.4,868.0
+Formal Wear,Festive,Cotton,4354.0,21.0,4.6,847.0,44.0,19.2,4354.0
+Athleisure,Spring/Summer,Polyester,1576.0,3.0,3.6,88.0,24.0,9.1,1576.0
+Ethnic Wear,Autumn/Winter,Recycled Fibre,1535.0,26.0,4.3,82.0,19.0,13.9,1535.0
+Y2K Revival,Autumn/Winter,Cotton,2012.0,3.0,4.1,404.0,19.0,20.0,2012.0
+Ethnic Wear,Spring/Summer,Polyester,5288.0,13.0,3.1,436.0,14.0,12.5,5288.0
+Streetwear,Autumn/Winter,Linen,3706.0,36.0,5.0,557.0,53.0,18.1,3706.0
+Streetwear,Spring/Summer,Recycled Fibre,2495.0,40.0,3.3,262.0,60.0,21.4,2495.0
+Athleisure,Autumn/Winter,Denim,1829.0,10.0,4.2,194.0,16.0,15.4,1829.0
+Y2K Revival,Festive,Denim,2388.0,19.0,4.2,401.0,9.0,12.8,2388.0
+Sustainable Wear,Spring/Summer,Silk,21032.0,22.0,4.3,283.0,1.0,9.4,5955.125
+Athleisure,Autumn/Winter,Linen,2677.0,40.0,3.8,1395.0,54.0,25.4,2677.0
+Sustainable Wear,Spring/Summer,Linen,1870.0,17.0,4.6,311.0,15.0,16.5,1870.0
+Y2K Revival,Festive,Linen,1610.0,17.0,4.0,387.0,25.0,18.6,1610.0
+Athleisure,Festive,Cotton,2099.0,37.0,4.0,2923.0,95.0,13.8,2099.0
+Formal Wear,Spring/Summer,Silk,2017.0,18.0,3.7,345.0,15.0,15.8,2017.0
+Formal Wear,Autumn/Winter,Recycled Fibre,4478.0,29.0,3.7,629.0,61.0,17.0,4478.0
+Formal Wear,Autumn/Winter,Polyester,8419.0,7.0,4.2,677.0,1.0,15.8,5955.125
+Y2K Revival,Autumn/Winter,Denim,1877.0,20.0,4.5,724.0,44.0,17.4,1877.0
+Formal Wear,Autumn/Winter,Cotton,6364.0,5.0,3.8,509.0,1.0,10.8,5955.125
+Y2K Revival,Autumn/Winter,Polyester,1599.0,11.0,4.4,471.0,33.0,6.2,1599.0
+Athleisure,Autumn/Winter,Cotton,1754.0,30.0,4.0,437.0,44.0,15.9,1754.0
+Formal Wear,Spring/Summer,Cotton,4342.0,22.0,3.6,254.0,4.0,7.4,4342.0
+Ethnic Wear,Spring/Summer,Polyester,2405.0,19.0,3.9,523.0,67.0,13.6,2405.0
+Ethnic Wear,Festive,Polyester,2284.0,15.0,3.9,2045.0,42.0,12.5,2284.0
+Y2K Revival,Spring/Summer,Cotton,2337.0,20.0,3.7,1063.0,33.0,18.2,2337.0
+Y2K Revival,Autumn/Winter,Cotton,2425.0,25.0,4.2,514.0,52.0,24.7,2425.0
+Formal Wear,Spring/Summer,Cotton,2686.0,32.0,4.1,800.0,70.0,5.6,2686.0
+Streetwear,Festive,Recycled Fibre,3087.0,0.0,3.2,201.0,17.0,27.4,3087.0
